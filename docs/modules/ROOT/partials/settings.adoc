@@ -1,0 +1,18 @@
+// Shared partial: the settings screen.
+Open Settings from the gear icon on the menu.
+
+[cols="1,3",options="header"]
+|===
+|Setting |What it does
+
+|Sound effects |Turns the drop, merge and pop sounds on or off. On by default.
+|Haptics |Turns vibration feedback -- on drops, merges and game over -- on or off. On by default.
+|Reduce motion |Damps decorative particles and confetti for a calmer screen. Off by default.
+|Tilt controls |Lets you steer falling pieces by tilting the device. Phones and tablets only; off by default.
+|Anti-frustration help |Makes the next piece more likely to be one already in the jar, so a match is usually available. On by default -- turn it off for a tougher game.
+|Run timer |Sets how long a run lasts, from one to ten minutes. One minute by default.
+|Theme |Switches the look between *Orchard*, which is warm and bright, and *Twilight*, which is dark.
+|===
+
+Background music plays automatically.
+Settings also has a *Reset progress* button, which clears your best score and leaderboard, and a link to the *About* screen with the version, source link and licences.

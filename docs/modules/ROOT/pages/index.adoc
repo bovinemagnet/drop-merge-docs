@@ -1,25 +1,18 @@
-= Drop and Merge Documentation
+= Drop & Merge
 
-Welcome to the official documentation for *Drop and Merge*, a casual puzzle game where players drop items onto a board and merge matching items into higher-value items.
+Welcome to the player guide for *Drop & Merge* — a drop-and-merge puzzle game: drop pieces into a jar, match them, and merge your way up an ever-growing ladder.
 
-Use this guide to understand gameplay basics, scoring, controls, and strategy.
+Drop & Merge is a *family of games*. Every edition — Fruit, Norse myth, K-pop idols, the Chinese zodiac and more — plays in exactly the same way; only the theme changes. Learn one and the skills carry across all of them.
 
-== Start Here
+== How it plays
 
-* xref:overview.adoc[Game Overview]
-* xref:gameplay.adoc[How Gameplay Works]
-* xref:controls.adoc[Controls]
-* xref:scoring.adoc[Scoring]
+include::partial$objective.adoc[]
 
-== Learn More
+== Where to go next
 
-* xref:strategy.adoc[Strategy Tips]
-* xref:levels.adoc[Levels and Progression]
-* xref:powerups.adoc[Powerups]
-* xref:faq.adoc[FAQ]
-* xref:release-notes.adoc[Release Notes]
-
-== TODO
-
-* TODO: Add screenshots of early, mid, and late board states.
-* TODO: Add platform-specific install links when available.
+* xref:gameplay.adoc[How to play] — aiming, dropping and merging.
+* xref:scoring.adoc[Scoring & chains] — points, chains and the leaderboard.
+* xref:controls.adoc[Controls] — touch, tilt and shake.
+* xref:avoiding-game-over.adoc[Avoiding game over] — the danger line and the run timer.
+* xref:games.adoc[The games] — all fourteen themed editions.
+* xref:faq.adoc[FAQ] — quick answers to common questions.

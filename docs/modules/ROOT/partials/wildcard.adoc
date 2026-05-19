@@ -1,0 +1,10 @@
+// Shared partial: the wildcard piece.
+Now and then -- roughly *one piece in twenty-five* -- the next piece is a *wildcard*, a slowly spinning rainbow disc.
+
+A wildcard merges with _whatever piece it touches_.
+The pair becomes the next kind up from that piece, as if you had found a perfect match for free.
+It is the only special piece in the game, and it behaves the same way in every edition.
+
+* Drop a wildcard onto an awkward piece you cannot otherwise pair.
+* Two wildcards will *not* merge with each other -- a wildcard needs a real piece to copy.
+* Land a wildcard on one of your biggest pieces to trigger the top-of-the-ladder clear and its bonus.

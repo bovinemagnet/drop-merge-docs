@@ -4,20 +4,16 @@ import process from 'node:process';
 
 const rootDir = process.cwd();
 const pagesDir = path.join(rootDir, 'docs', 'modules', 'ROOT', 'pages');
+const partialsDir = path.join(rootDir, 'docs', 'modules', 'ROOT', 'partials');
 const imagesDir = path.join(rootDir, 'docs', 'modules', 'ROOT', 'assets', 'images');
 const wikiDir = path.join(rootDir, 'build', 'wiki');
 
+// Only pages whose wiki name cannot be derived by simple title-casing need an
+// explicit mapping. Every other page falls back to fileNameToWikiPageName.
 const wikiNameMap = {
   'index.adoc': 'Home.adoc',
-  'overview.adoc': 'Overview.adoc',
-  'gameplay.adoc': 'Gameplay.adoc',
-  'scoring.adoc': 'Scoring.adoc',
-  'controls.adoc': 'Controls.adoc',
-  'strategy.adoc': 'Strategy.adoc',
-  'levels.adoc': 'Levels.adoc',
-  'powerups.adoc': 'Powerups.adoc',
   'faq.adoc': 'FAQ.adoc',
-  'release-notes.adoc': 'Release-Notes.adoc',
+  'kpop.adoc': 'K-Pop.adoc',
   'privacy.adoc': 'Privacy-Policy.adoc'
 };
 
@@ -56,6 +52,34 @@ function convertAntoraXrefs(content) {
   });
 }
 
+async function expandPartials(content, seen = new Set()) {
+  // GitHub Wiki does not resolve AsciiDoc include directives, so Antora
+  // `include::partial$<file>[]` references are inlined here. Antora partials
+  // live under modules/ROOT/partials/. Includes are expanded recursively with
+  // a guard against partials that include themselves.
+  const includePattern = /^[ \t]*include::partial\$([\w./-]+)\[[^\]]*\][ \t]*$/gm;
+  const matches = [...content.matchAll(includePattern)];
+  if (matches.length === 0) {
+    return content;
+  }
+
+  let result = '';
+  let cursor = 0;
+  for (const match of matches) {
+    result += content.slice(cursor, match.index);
+    const partialName = match[1];
+    if (seen.has(partialName)) {
+      throw new Error(`Circular partial include detected: ${partialName}`);
+    }
+    const partialRaw = await readFile(path.join(partialsDir, partialName), 'utf8');
+    const expanded = await expandPartials(partialRaw, new Set([...seen, partialName]));
+    result += expanded.trimEnd();
+    cursor = match.index + match[0].length;
+  }
+  result += content.slice(cursor);
+  return result;
+}
+
 function wikiTitleFromOutputFile(outputFileName) {
   return outputFileName
     .replace(/\.adoc$/i, '')
@@ -87,7 +111,8 @@ async function generateWikiPages() {
     const outputPath = path.join(wikiDir, outputName);
 
     const raw = await readFile(sourcePath, 'utf8');
-    const converted = convertAntoraXrefs(raw);
+    const inlined = await expandPartials(raw);
+    const converted = convertAntoraXrefs(inlined);
     await writeFile(outputPath, `${sourceNotice}${converted}`, 'utf8');
   }
 

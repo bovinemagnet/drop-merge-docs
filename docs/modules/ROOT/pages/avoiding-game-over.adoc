@@ -1,0 +1,7 @@
+= Avoiding game over
+
+A run ends if the jar overflows past the danger line, or when the run timer reaches zero. Knowing exactly how that works is the difference between a panicked finish and a calm recovery.
+
+include::partial$danger-line.adoc[]
+
+See xref:strategy.adoc[Tips & strategy] for ways to keep the pile low.

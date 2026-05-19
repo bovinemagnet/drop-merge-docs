@@ -1,0 +1,75 @@
+= Drop & Merge — China
+
+Chinese mythology is one of the world's richest, spanning wandering spirits, divine animals and the celestial court. This edition rises from humble spirit skulls and the undead jiangshi through the Four Celestial Beasts — the White Tiger, the Black Tortoise, the Vermilion Bird and the Azure Dragon — before reaching the Jade Emperor and, at the summit, the Heavenly Sovereign.
+
+This is one edition of *Drop & Merge*. Its pieces are themed to Chinese mythology, but it plays exactly like every other edition — see xref:games.adoc[The games] for the rest of the family.
+
+== The celestial ladder
+
+You merge your way up 16 mythical beings. You can drop only the five smallest; every larger piece is made by merging two of the kind below it.
+
+[cols="1,3,1,2",options="header"]
+|===
+|Tier |Piece |Points |How you get it
+
+|1 |Spirit Skull |1 |Dropped
+|2 |Jiangshi |3 |Dropped
+|3 |Lantern Spirit |6 |Dropped
+|4 |Jade Rabbit |10 |Dropped
+|5 |Guardian Lion |15 |Dropped
+|6 |Qilin |21 |Merged
+|7 |White Tiger |28 |Merged
+|8 |Black Tortoise |36 |Merged
+|9 |Vermilion Bird |45 |Merged
+|10 |Azure Dragon |55 |Merged
+|11 |Monkey King |66 |Merged
+|12 |Nine-Tailed Fox |78 |Merged
+|13 |Dragon Turtle |91 |Merged
+|14 |Celestial Dragon |105 |Merged
+|15 |Jade Emperor |120 |Merged
+|16 |Heavenly Sovereign |136 |Merged — top tier
+|===
+
+Clearing the two Heavenly Sovereign pieces awards a 700-point bonus.
+
+Tap *Characters* on the menu to browse every piece in this edition with a fact about it.
+
+== How to play
+
+include::partial$objective.adoc[]
+
+== Aiming and dropping
+
+include::partial$aiming.adoc[]
+
+== Merging pieces
+
+include::partial$merging.adoc[]
+
+== The wildcard
+
+include::partial$wildcard.adoc[]
+
+== Controls
+
+include::partial$controls.adoc[]
+
+== Scoring and chains
+
+include::partial$scoring.adoc[]
+
+== The danger line and game over
+
+include::partial$danger-line.adoc[]
+
+== Best scores
+
+include::partial$leaderboard.adoc[]
+
+== Settings
+
+include::partial$settings.adoc[]
+
+== Tips and strategy
+
+include::partial$strategy.adoc[]

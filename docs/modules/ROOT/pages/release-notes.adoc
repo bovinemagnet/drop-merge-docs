@@ -1,28 +1,20 @@
-= Release Notes
+= Release notes
 
-Use this page to track documentation-visible changes for Drop and Merge.
+This page lists player-facing changes across releases of Drop & Merge.
 
-== Unreleased
+== 1.0.0
 
-=== Added
-
-* Initial Antora documentation structure
-* Core gameplay, controls, scoring, and strategy pages
-
-=== Changed
-
-* TODO: Add release-specific gameplay adjustments
-
-=== Fixed
-
-* TODO: Add notable bug fix summaries relevant to players
-
-== 0.1.0 (Template)
+The first public release.
 
 === Added
 
-* TODO: Document first public feature set
-
-=== Notes
-
-* TODO: Add links to announcements or patch posts
+* The endless drop-and-merge game: aim, drop, and merge matching pieces up the ladder.
+* Fourteen themed editions, each with its own ladder of pieces — see xref:games.adoc[The games].
+* The rainbow xref:wildcard.adoc[wildcard] piece.
+* Chain scoring with an escalating multiplier, and a bonus for clearing the top of the ladder.
+* A local leaderboard of your ten best runs, and a saved best score.
+* An adjustable run timer, from one to ten minutes.
+* Optional tilt steering and shake controls on phones and tablets.
+* Sound effects and haptic feedback, each of which can be turned off.
+* Orchard and Twilight visual themes.
+* A Characters gallery showing every piece in the edition with a fact about it.

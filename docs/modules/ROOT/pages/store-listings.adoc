@@ -1,0 +1,596 @@
+= Store listings
+
+Submission copy for the App Store and Google Play. Each edition of Drop & Merge is published as a separate app with its own listing — copy the three blocks for the edition you are submitting.
+
+[NOTE]
+====
+Google Play allows up to 30 characters for the app title, 80 for the short description and 4,000 for the full description. The App Store allows up to 30 characters for the app name and subtitle and 4,000 for the description. Where a store's limit is shorter than the text below, trim to fit.
+====
+
+== Drop & Merge — Fruit
+
+*App name*
+
+[listing]
+----
+Drop & Merge - Fruit
+----
+
+*Short description*
+
+[listing]
+----
+Drop and merge fruit — cherries to the giant watermelon. Easy to play!
+----
+
+*Full description*
+
+[listing]
+----
+Drop, merge, and climb your way to the giant watermelon!
+
+Drop & Merge - Fruit is a relaxing physics puzzle game. Drop fruit into the jar, and when two of the same fruit touch they merge into the next fruit up — cherries become strawberries, strawberries become grapes, all the way to the mighty watermelon.
+
+It is easy to learn and hard to put down. Line up quick merges to build score-multiplying chains, catch the rare rainbow wildcard that merges with anything, and keep the pile below the danger line for as long as you can.
+
+FEATURES
+• Simple one-handed play — just aim and drop
+• Merge 11 fruit, from cherry to watermelon
+• Chain your merges for big score multipliers
+• A rare rainbow wildcard that merges with anything
+• Beat your best score and a local top-ten leaderboard
+• An adjustable run timer, from 1 to 10 minutes
+• Optional tilt and shake controls on phones and tablets
+• Orchard and Twilight themes
+• No account and no sign-in — play offline, anywhere
+
+Drop & Merge - Fruit is part of the Drop & Merge family of games. Same addictive gameplay, many themes — try the mythology, zodiac and K-pop editions too.
+
+Can you reach the watermelon?
+----
+
+== Drop & Merge — Animals
+
+*App name*
+
+[listing]
+----
+Drop & Merge - Animals
+----
+
+*Short description*
+
+[listing]
+----
+Drop and merge the animals from the classic Old Lady nursery rhyme!
+----
+
+*Full description*
+
+[listing]
+----
+She swallowed a fly — and now you're in charge of the pile!
+
+Drop & Merge - Animals is a relaxing physics puzzle game inspired by the beloved cumulative nursery rhyme "There Was an Old Lady Who Swallowed a Fly". Drop creatures into the jar and when two of the same animal touch they merge into the next animal up — a fly becomes a spider, a spider becomes a bird, and so the chain climbs all the way to the Old Lady herself.
+
+It is easy to learn and hard to put down. Line up quick merges to build score-multiplying chains, catch the rare rainbow wildcard that merges with anything, and keep the pile below the danger line for as long as you can.
+
+FEATURES
+• Simple one-handed play — just aim and drop
+• Merge 9 animals, from fly to the Old Lady
+• Chain your merges for big score multipliers
+• A rare rainbow wildcard that merges with anything
+• Beat your best score and a local top-ten leaderboard
+• An adjustable run timer, from 1 to 10 minutes
+• Optional tilt and shake controls on phones and tablets
+• Orchard and Twilight themes
+• No account and no sign-in — play offline, anywhere
+
+Drop & Merge - Animals is part of the Drop & Merge family of games. Same addictive gameplay, many themes — try the mythology, zodiac and K-pop editions too.
+
+Why did she swallow the fly? Merge your way to the answer!
+----
+
+== Drop & Merge — Japan
+
+*App name*
+
+[listing]
+----
+Drop & Merge - Japan
+----
+
+*Short description*
+
+[listing]
+----
+Drop and merge Japanese yokai spirits — rise to the Yokai Emperor!
+----
+
+*Full description*
+
+[listing]
+----
+The spirits stir — can you summon the Yokai Emperor?
+
+Drop & Merge - Japan is a relaxing physics puzzle game steeped in Japanese yokai folklore. Drop supernatural creatures into the jar and when two of the same yokai touch they merge into the next spirit up — a haunted skull becomes a kappa, a kappa becomes a tanuki, and the chain climbs through kitsune, oni, tengu and beyond, all the way to the mighty Yokai Emperor.
+
+It is easy to learn and hard to put down. Line up quick merges to build score-multiplying chains, catch the rare rainbow wildcard that merges with anything, and keep the pile below the danger line for as long as you can.
+
+FEATURES
+• Simple one-handed play — just aim and drop
+• Merge 16 yokai, from haunted skull to the Yokai Emperor
+• Chain your merges for big score multipliers
+• A rare rainbow wildcard that merges with anything
+• Beat your best score and a local top-ten leaderboard
+• An adjustable run timer, from 1 to 10 minutes
+• Optional tilt and shake controls on phones and tablets
+• Orchard and Twilight themes
+• No account and no sign-in — play offline, anywhere
+
+Drop & Merge - Japan is part of the Drop & Merge family of games. Same addictive gameplay, many themes — try the mythology, zodiac and K-pop editions too.
+
+The Yokai Emperor awaits — dare you call it forth?
+----
+
+== Drop & Merge — China
+
+*App name*
+
+[listing]
+----
+Drop & Merge - China
+----
+
+*Short description*
+
+[listing]
+----
+Drop and merge Chinese myth — from spirits to the Heavenly Sovereign!
+----
+
+*Full description*
+
+[listing]
+----
+Heaven and earth tremble — the Heavenly Sovereign rises!
+
+Drop & Merge - China is a relaxing physics puzzle game drawn from the great tapestry of Chinese mythology. Drop legendary beings into the jar and when two of the same kind touch they merge into the next power up — a spirit skull gives way to the Four Celestial Beasts, then the Monkey King strides forth, and at last the Jade Emperor yields to the supreme Heavenly Sovereign.
+
+It is easy to learn and hard to put down. Line up quick merges to build score-multiplying chains, catch the rare rainbow wildcard that merges with anything, and keep the pile below the danger line for as long as you can.
+
+FEATURES
+• Simple one-handed play — just aim and drop
+• Merge 16 mythical beings, from spirit skull to the Heavenly Sovereign
+• Chain your merges for big score multipliers
+• A rare rainbow wildcard that merges with anything
+• Beat your best score and a local top-ten leaderboard
+• An adjustable run timer, from 1 to 10 minutes
+• Optional tilt and shake controls on phones and tablets
+• Orchard and Twilight themes
+• No account and no sign-in — play offline, anywhere
+
+Drop & Merge - China is part of the Drop & Merge family of games. Same addictive gameplay, many themes — try the mythology, zodiac and K-pop editions too.
+
+Can you bring the Heavenly Sovereign to earth?
+----
+
+== Drop & Merge — Mythology
+
+*App name*
+
+[listing]
+----
+Drop & Merge - Mythology
+----
+
+*Short description*
+
+[listing]
+----
+Drop and merge legendary creatures from the world's great myths!
+----
+
+*Full description*
+
+[listing]
+----
+Every legend is real — and they all end up in your jar!
+
+Drop & Merge - Mythology is a relaxing physics puzzle game celebrating the greatest legendary creatures from the world's mythologies. Drop icons of fear and wonder into the jar and when two of the same creature touch they merge into the next terror up — a skull grows into a minotaur, a minotaur yields to Cerberus, Fenrir howls past the Hydra, and the Kraken itself bows before the almighty Celestial God Beast.
+
+It is easy to learn and hard to put down. Line up quick merges to build score-multiplying chains, catch the rare rainbow wildcard that merges with anything, and keep the pile below the danger line for as long as you can.
+
+FEATURES
+• Simple one-handed play — just aim and drop
+• Merge 16 legendary creatures, from skull to the Celestial God Beast
+• Chain your merges for big score multipliers
+• A rare rainbow wildcard that merges with anything
+• Beat your best score and a local top-ten leaderboard
+• An adjustable run timer, from 1 to 10 minutes
+• Optional tilt and shake controls on phones and tablets
+• Orchard and Twilight themes
+• No account and no sign-in — play offline, anywhere
+
+Drop & Merge - Mythology is part of the Drop & Merge family of games. Same addictive gameplay, many themes — try the Japan, Norse and Greece editions too.
+
+Legends collide — only the Celestial God Beast survives!
+----
+
+== Drop & Merge — Norse
+
+*App name*
+
+[listing]
+----
+Drop & Merge - Norse
+----
+
+*Short description*
+
+[listing]
+----
+Drop and merge Norse myth — from draugr to the beast of Ragnarok!
+----
+
+*Full description*
+
+[listing]
+----
+The nine worlds shake — Ragnarok has begun!
+
+Drop & Merge - Norse is a relaxing physics puzzle game forged in the fires of Norse mythology. Drop creatures of legend into the jar and when two of the same being touch they merge into the next power up — a bone skull rises to a draugr, Valkyries wheel overhead, frost giants clash with Odin and Thor, and the chain surges all the way to the world-ending Ragnarok Beast.
+
+It is easy to learn and hard to put down. Line up quick merges to build score-multiplying chains, catch the rare rainbow wildcard that merges with anything, and keep the pile below the danger line for as long as you can.
+
+FEATURES
+• Simple one-handed play — just aim and drop
+• Merge 16 Norse beings, from bone skull to the Ragnarok Beast
+• Chain your merges for big score multipliers
+• A rare rainbow wildcard that merges with anything
+• Beat your best score and a local top-ten leaderboard
+• An adjustable run timer, from 1 to 10 minutes
+• Optional tilt and shake controls on phones and tablets
+• Orchard and Twilight themes
+• No account and no sign-in — play offline, anywhere
+
+Drop & Merge - Norse is part of the Drop & Merge family of games. Same addictive gameplay, many themes — try the mythology, Greece and Japan editions too.
+
+The Ragnarok Beast awaits — can you survive long enough to face it?
+----
+
+== Drop & Merge — Greece
+
+*App name*
+
+[listing]
+----
+Drop & Merge - Greece
+----
+
+*Short description*
+
+[listing]
+----
+Drop and merge Greek myth — monsters, Titans and the Olympian gods!
+----
+
+*Full description*
+
+[listing]
+----
+From the labyrinth to Olympus — the gods are watching!
+
+Drop & Merge - Greece is a relaxing physics puzzle game set amid the monsters, Titans and deities of classical Greek mythology. Drop legendary figures into the jar and when two of the same myth touch they merge into the next tier up — a skull stirs into a Minotaur, Medusa turns her gaze on Pegasus, the Hydra rears past the Titans, and Zeus himself ascends to Zeus Ascended at the peak of the pantheon.
+
+It is easy to learn and hard to put down. Line up quick merges to build score-multiplying chains, catch the rare rainbow wildcard that merges with anything, and keep the pile below the danger line for as long as you can.
+
+FEATURES
+• Simple one-handed play — just aim and drop
+• Merge 16 Greek myths, from skull to Zeus Ascended
+• Chain your merges for big score multipliers
+• A rare rainbow wildcard that merges with anything
+• Beat your best score and a local top-ten leaderboard
+• An adjustable run timer, from 1 to 10 minutes
+• Optional tilt and shake controls on phones and tablets
+• Orchard and Twilight themes
+• No account and no sign-in — play offline, anywhere
+
+Drop & Merge - Greece is part of the Drop & Merge family of games. Same addictive gameplay, many themes — try the Norse, mythology and Japan editions too.
+
+Will you ascend to Olympus and reach Zeus Ascended?
+----
+
+== Drop & Merge — Indigenous
+
+*App name*
+
+[listing]
+----
+Drop & Merge - Indigenous
+----
+
+*Short description*
+
+[listing]
+----
+Drop and merge Indigenous spirit creatures up to the World Thunderbird!
+----
+
+*Full description*
+
+[listing]
+----
+The spirits of the land call out — answer with the World Thunderbird!
+
+Drop & Merge - Indigenous is a relaxing physics puzzle game honouring the spirit creatures of North American Indigenous traditions. Drop powerful beings into the jar and when two of the same spirit touch they merge into the next guardian up — a spirit skull stirs into trickster figures, the Wendigo stalks past the Water Panther, and the chain surges skyward all the way to the awe-inspiring World Thunderbird.
+
+It is easy to learn and hard to put down. Line up quick merges to build score-multiplying chains, catch the rare rainbow wildcard that merges with anything, and keep the pile below the danger line for as long as you can.
+
+FEATURES
+• Simple one-handed play — just aim and drop
+• Merge 15 spirit creatures, from spirit skull to the World Thunderbird
+• Chain your merges for big score multipliers
+• A rare rainbow wildcard that merges with anything
+• Beat your best score and a local top-ten leaderboard
+• An adjustable run timer, from 1 to 10 minutes
+• Optional tilt and shake controls on phones and tablets
+• Orchard and Twilight themes
+• No account and no sign-in — play offline, anywhere
+
+Drop & Merge - Indigenous is part of the Drop & Merge family of games. Same addictive gameplay, many themes — try the mythology, Australia and South Asia editions too.
+
+Hear the thunder — can you call forth the World Thunderbird?
+----
+
+== Drop & Merge — South Asia
+
+*App name*
+
+[listing]
+----
+Drop & Merge - South Asia
+----
+
+*Short description*
+
+[listing]
+----
+Drop and merge South Asian myth — naga, garuda and the World Turtle!
+----
+
+*Full description*
+
+[listing]
+----
+The cosmic ocean stirs — the World Turtle Avatar rises!
+
+Drop & Merge - South Asia is a relaxing physics puzzle game drawing on the rich mythologies of South Asia. Drop legendary beings into the jar and when two of the same kind touch they merge into the next power up — a spirit skull becomes a yaksha, yakshas give way to naga and garuda, the fearsome rakshasa appears, mighty Airavata the divine elephant mount thunders through, and the chain ascends at last to the World Turtle Avatar.
+
+It is easy to learn and hard to put down. Line up quick merges to build score-multiplying chains, catch the rare rainbow wildcard that merges with anything, and keep the pile below the danger line for as long as you can.
+
+FEATURES
+• Simple one-handed play — just aim and drop
+• Merge 16 mythic beings, from spirit skull to the World Turtle Avatar
+• Chain your merges for big score multipliers
+• A rare rainbow wildcard that merges with anything
+• Beat your best score and a local top-ten leaderboard
+• An adjustable run timer, from 1 to 10 minutes
+• Optional tilt and shake controls on phones and tablets
+• Orchard and Twilight themes
+• No account and no sign-in — play offline, anywhere
+
+Drop & Merge - South Asia is part of the Drop & Merge family of games. Same addictive gameplay, many themes — try the mythology, China and Japan editions too.
+
+Can you carry the world — and reach the World Turtle Avatar?
+----
+
+== Drop & Merge — Zodiac
+
+*App name*
+
+[listing]
+----
+Drop & Merge - Zodiac
+----
+
+*Short description*
+
+[listing]
+----
+Drop and merge the twelve animals of the Chinese zodiac!
+----
+
+*Full description*
+
+[listing]
+----
+The great race begins — which zodiac sign will you reach?
+
+Drop & Merge - Zodiac is a relaxing physics puzzle game built around the twelve animals of the Chinese zodiac. Drop the zodiac animals into the jar and when two of the same sign touch they merge into the next sign up — the Rat scurries ahead of the Ox, the Tiger leaps past the Rabbit, and the race continues through Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, and finally the Pig claims the last place of honour.
+
+It is easy to learn and hard to put down. Line up quick merges to build score-multiplying chains, catch the rare rainbow wildcard that merges with anything, and keep the pile below the danger line for as long as you can.
+
+FEATURES
+• Simple one-handed play — just aim and drop
+• Merge the 12 animals of the Chinese zodiac, from rat to pig
+• Chain your merges for big score multipliers
+• A rare rainbow wildcard that merges with anything
+• Beat your best score and a local top-ten leaderboard
+• An adjustable run timer, from 1 to 10 minutes
+• Optional tilt and shake controls on phones and tablets
+• Orchard and Twilight themes
+• No account and no sign-in — play offline, anywhere
+
+Drop & Merge - Zodiac is part of the Drop & Merge family of games. Same addictive gameplay, many themes — try the China, Japan and mythology editions too.
+
+Which zodiac sign are you? Merge your way through all twelve and find out!
+----
+
+== Drop & Merge — Indonesia
+
+*App name*
+
+[listing]
+----
+Drop & Merge - Indonesia
+----
+
+*Short description*
+
+[listing]
+----
+Drop and merge Indonesian island spirits — Barong, Rangda and beyond!
+----
+
+*Full description*
+
+[listing]
+----
+The eternal dance of Barong and Rangda begins — only the Cosmic Garuda can end it!
+
+Drop & Merge - Indonesia is a relaxing physics puzzle game rooted in the rich folklore of the Indonesian islands. Drop island spirits into the jar and when two of the same spirit touch they merge into the next power up — a skull spirit awakens into lesser demons, the great Barong clashes with the fearsome Rangda, the monkey warrior Hanoman leaps through, and the chain soars all the way to the magnificent Cosmic Garuda.
+
+It is easy to learn and hard to put down. Line up quick merges to build score-multiplying chains, catch the rare rainbow wildcard that merges with anything, and keep the pile below the danger line for as long as you can.
+
+FEATURES
+• Simple one-handed play — just aim and drop
+• Merge 16 island spirits, from skull spirit to the Cosmic Garuda
+• Chain your merges for big score multipliers
+• A rare rainbow wildcard that merges with anything
+• Beat your best score and a local top-ten leaderboard
+• An adjustable run timer, from 1 to 10 minutes
+• Optional tilt and shake controls on phones and tablets
+• Orchard and Twilight themes
+• No account and no sign-in — play offline, anywhere
+
+Drop & Merge - Indonesia is part of the Drop & Merge family of games. Same addictive gameplay, many themes — try the mythology, South Asia and Australia editions too.
+
+Spread your wings — can you summon the Cosmic Garuda?
+----
+
+== Drop & Merge — Australia
+
+*App name*
+
+[listing]
+----
+Drop & Merge - Australia
+----
+
+*Short description*
+
+[listing]
+----
+Drop and merge Aussie Dreamtime spirits — meet the Rainbow Serpent!
+----
+
+*Full description*
+
+[listing]
+----
+From the first dawn of the Dreaming to the Cosmic Rainbow Serpent — every spirit calls to you!
+
+Drop & Merge - Australia is a relaxing physics puzzle game inspired by the spirit creatures of the Australian Aboriginal Dreamtime. Drop ancient beings into the jar and when two of the same spirit touch they merge into the next guardian up — a bone wisp stirs into trickster figures, the Bunyip lurks past the Yowie, and the chain spirals upward all the way to the all-encompassing Cosmic Rainbow Serpent.
+
+It is easy to learn and hard to put down. Line up quick merges to build score-multiplying chains, catch the rare rainbow wildcard that merges with anything, and keep the pile below the danger line for as long as you can.
+
+FEATURES
+• Simple one-handed play — just aim and drop
+• Merge 16 Dreamtime spirits, from bone wisp to the Cosmic Rainbow Serpent
+• Chain your merges for big score multipliers
+• A rare rainbow wildcard that merges with anything
+• Beat your best score and a local top-ten leaderboard
+• An adjustable run timer, from 1 to 10 minutes
+• Optional tilt and shake controls on phones and tablets
+• Orchard and Twilight themes
+• No account and no sign-in — play offline, anywhere
+
+Drop & Merge - Australia is part of the Drop & Merge family of games. Same addictive gameplay, many themes — try the Indigenous, Indonesia and South Asia editions too.
+
+The Dreaming never ends — can you reach the Cosmic Rainbow Serpent?
+----
+
+== Drop & Merge — Korea
+
+*App name*
+
+[listing]
+----
+Drop & Merge - Korea
+----
+
+*Short description*
+
+[listing]
+----
+Drop and merge Korean folklore — dokkaebi, gumiho and sky dragons!
+----
+
+*Full description*
+
+[listing]
+----
+The goblin lanterns glow and the nine-tailed fox stirs — the Eternal Sky Dragon is watching!
+
+Drop & Merge - Korea is a relaxing physics puzzle game woven from the folklore of Korea. Drop spirits and legends into the jar and when two of the same spirit touch they merge into the next power up — a spirit ember sparks into a dokkaebi goblin, the nine-tailed gumiho prowls past the fearsome Bulgasari, and the chain blazes all the way to the majestic Eternal Sky Dragon.
+
+It is easy to learn and hard to put down. Line up quick merges to build score-multiplying chains, catch the rare rainbow wildcard that merges with anything, and keep the pile below the danger line for as long as you can.
+
+FEATURES
+• Simple one-handed play — just aim and drop
+• Merge 16 folklore spirits, from spirit ember to the Eternal Sky Dragon
+• Chain your merges for big score multipliers
+• A rare rainbow wildcard that merges with anything
+• Beat your best score and a local top-ten leaderboard
+• An adjustable run timer, from 1 to 10 minutes
+• Optional tilt and shake controls on phones and tablets
+• Orchard and Twilight themes
+• No account and no sign-in — play offline, anywhere
+
+Drop & Merge - Korea is part of the Drop & Merge family of games. Same addictive gameplay, many themes — try the Japan, China and K-pop editions too.
+
+Can you ascend through the nine tails and reach the Eternal Sky Dragon?
+----
+
+== Drop & Merge — K-Pop
+
+*App name*
+
+[listing]
+----
+Drop & Merge - K-Pop
+----
+
+*Short description*
+
+[listing]
+----
+Drop and merge your way from karaoke trainee to cosmic K-pop idol!
+----
+
+*Full description*
+
+[listing]
+----
+Every superstar starts at the karaoke machine — how far can you go?
+
+Drop & Merge - K-Pop is a relaxing physics puzzle game set on the dazzling rise to K-pop stardom. Drop performers into the jar and when two of the same act touch they merge into the next level up — a karaoke bean becomes a trainee, trainees debut as rookies, rookies grow into lead vocalists and viral dancers, and the climb continues through arena idols all the way to the one-and-only Cosmic Idol God.
+
+It is easy to learn and hard to put down. Line up quick merges to build score-multiplying chains, catch the rare rainbow wildcard that merges with anything, and keep the pile below the danger line for as long as you can.
+
+FEATURES
+• Simple one-handed play — just aim and drop
+• Merge 16 performers, from karaoke bean to the Cosmic Idol God
+• Chain your merges for big score multipliers
+• A rare rainbow wildcard that merges with anything
+• Beat your best score and a local top-ten leaderboard
+• An adjustable run timer, from 1 to 10 minutes
+• Optional tilt and shake controls on phones and tablets
+• Orchard and Twilight themes
+• No account and no sign-in — play offline, anywhere
+
+Drop & Merge - K-Pop is part of the Drop & Merge family of games. Same addictive gameplay, many themes — try the Korea, Japan and zodiac editions too.
+
+The stage is yours — can you reach Cosmic Idol God?
+----

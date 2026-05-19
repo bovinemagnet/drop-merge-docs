@@ -1,0 +1,75 @@
+= Drop & Merge — Korea
+
+Korean folklore brims with mischievous goblins, shape-shifting foxes and iron-devouring monsters drawn from centuries of myth and legend. This edition climbs from spirit embers and mountain toads through the club-swinging dokkaebi, the nine-tailed gumiho and the iron-eating Bulgasari, all the way to the three-legged Samjoko, the great Imugi serpent and, at the summit, the Eternal Sky Dragon.
+
+This is one edition of *Drop & Merge*. Its pieces are themed to Korean folklore, but it plays exactly like every other edition — see xref:games.adoc[The games] for the rest of the family.
+
+== The folklore ladder
+
+You merge your way up 16 folklore spirits. You can drop only the five smallest; every larger piece is made by merging two of the kind below it.
+
+[cols="1,3,1,2",options="header"]
+|===
+|Tier |Piece |Points |How you get it
+
+|1 |Spirit Ember |1 |Dropped
+|2 |Mountain Toad |3 |Dropped
+|3 |Goblin Flame |6 |Dropped
+|4 |Dokkaebi |10 |Dropped
+|5 |Moon Rabbit |15 |Dropped
+|6 |Ghost Tiger |21 |Merged
+|7 |Gumiho |28 |Merged
+|8 |Bulgasari |36 |Merged
+|9 |Samjoko |45 |Merged
+|10 |Imugi |55 |Merged
+|11 |Grave Guardian |66 |Merged
+|12 |Celestial Beast |78 |Merged
+|13 |Korean Dragon |91 |Merged
+|14 |Heavenly Tiger |105 |Merged
+|15 |Sky Emperor Beast |120 |Merged
+|16 |Eternal Sky Dragon |136 |Merged — top tier
+|===
+
+Clearing the two Eternal Sky Dragon pieces awards a 700-point bonus.
+
+Tap *Characters* on the menu to browse every piece in this edition with a fact about it.
+
+== How to play
+
+include::partial$objective.adoc[]
+
+== Aiming and dropping
+
+include::partial$aiming.adoc[]
+
+== Merging pieces
+
+include::partial$merging.adoc[]
+
+== The wildcard
+
+include::partial$wildcard.adoc[]
+
+== Controls
+
+include::partial$controls.adoc[]
+
+== Scoring and chains
+
+include::partial$scoring.adoc[]
+
+== The danger line and game over
+
+include::partial$danger-line.adoc[]
+
+== Best scores
+
+include::partial$leaderboard.adoc[]
+
+== Settings
+
+include::partial$settings.adoc[]
+
+== Tips and strategy
+
+include::partial$strategy.adoc[]

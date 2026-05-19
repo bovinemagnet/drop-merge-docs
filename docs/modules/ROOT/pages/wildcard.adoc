@@ -1,0 +1,7 @@
+= The wildcard
+
+The wildcard is the only special piece in Drop & Merge — and the closest the game has to a power-up.
+
+include::partial$wildcard.adoc[]
+
+You aim and drop a wildcard exactly like any other piece. The skill is in choosing _what_ to drop it on — see xref:strategy.adoc[Tips & strategy] for when to spend one.

@@ -1,0 +1,11 @@
+// Shared partial: the goal of every Drop & Merge game.
+Every Drop & Merge game works the same way.
+You drop pieces into the jar, and whenever two of the *same* piece touch they merge into the next, larger piece.
+Larger pieces are worth far more points, so the aim is to keep merging up the ladder while the jar slowly fills.
+
+A run continues until one of two things happens:
+
+* pieces pile up past the *danger line* near the top of the jar, or
+* the optional run timer reaches zero.
+
+When a run ends your score is saved. The goal is simple: beat your best.

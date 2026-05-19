@@ -1,30 +1,56 @@
 = FAQ
 
-== What kind of game is Drop and Merge?
+== What is Drop & Merge?
 
-It is a casual puzzle game centered on dropping and merging matching pieces for higher-value outcomes.
+Drop & Merge is a casual drop-and-merge puzzle game: drop pieces into a jar, and two of the same kind merge into the next kind up.
+See xref:overview.adoc[About the game] for a full introduction.
 
-== Is there a win condition?
+== Which edition should I play?
 
-That depends on the final mode design.
-Some modes may be endless, while others may use score or objective targets.
+Every edition plays identically; only the theme and the ladder of pieces differ.
+Pick the theme you like best and start there.
+See xref:games.adoc[The games] for the full list.
 
-== Why did my run end?
+== How do I play?
 
-Common placeholder reasons include no valid placement space, turn limits, or time limits.
-See xref:gameplay.adoc[Gameplay] for current guidance.
+Drag to aim, release or tap to drop; land two of the same piece together to merge them.
+See xref:gameplay.adoc[How to play] for step-by-step guidance.
 
-== Are powerups required?
+== How does a run end?
 
-Not necessarily.
-Powerups are optional placeholders until design is finalized.
-See xref:powerups.adoc[Powerups].
+When pieces settle above the danger line for about two seconds, or when the run timer reaches zero.
+See xref:avoiding-game-over.adoc[Avoiding game over] for the full detail.
 
-== Where can I find update history?
+== I keep losing quickly — what can I do?
 
-See xref:release-notes.adoc[Release Notes].
+Merge pieces early instead of letting them pile up; shake the pile to knock a high piece down; the Anti-frustration help setting (on by default) keeps a match available; you can also lengthen the run timer.
+See xref:strategy.adoc[Tips & strategy] and xref:settings.adoc[Settings].
 
-== TODO
+== What is the rainbow piece?
 
-* TODO: Add platform-specific FAQ entries.
-* TODO: Add troubleshooting guidance with screenshots.
+The wildcard: it merges with whatever piece it touches, making it the perfect tool for clearing a piece you cannot otherwise pair.
+See xref:wildcard.adoc[The wildcard].
+
+== Is my score saved?
+
+Yes. Your best score and a leaderboard of your ten best runs are stored on your device.
+See xref:scoring.adoc[Scoring & chains].
+
+== Do I need an account or an internet connection?
+
+No. Drop & Merge needs no account and no sign-in, and a run can be played fully offline.
+See xref:overview.adoc[About the game] and the xref:privacy.adoc[Privacy policy].
+
+== How do I turn off the sound, or change the run length?
+
+In Settings: Sound effects and Haptics can each be turned off, and the Run timer can be set from one to ten minutes.
+See xref:settings.adoc[Settings].
+
+== What are tilt and shake controls?
+
+Optional motion controls on phones and tablets: tilt steers a falling piece left or right, and shake jostles the pile to knock pieces down.
+See xref:controls.adoc[Controls].
+
+== Which devices can I play on?
+
+Android and iOS phones and tablets, web browsers, and Windows, macOS and Linux computers.

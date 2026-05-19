@@ -1,28 +1,27 @@
-= Overview
+= About the game
 
-== What Is Drop and Merge?
+*Drop & Merge* is a casual physics puzzle game. You drop themed pieces into a jar; matching pieces merge into bigger ones; bigger pieces score more. It is easy to pick up and quick to play — a good fit for short sessions and high-score chasing alike.
 
-*Drop and Merge* is a casual puzzle game focused on planning, placement, and timing.
-Players drop numbered or themed pieces onto a board and merge matching pieces to create higher-value outcomes.
+== One game, many editions
 
-== Target Audience
+Drop & Merge is published as a *family of separate apps*. Each edition has its own theme and its own ladder of pieces, but the rules, controls and scoring are identical across all of them. See xref:games.adoc[The games] for the full list — fruit, world mythologies, the Chinese zodiac, K-pop idols and more.
 
-This game is designed for players who enjoy:
+== How it plays
 
-* Short puzzle sessions
-* Incremental mastery
-* Clear, satisfying progression
+include::partial$objective.adoc[]
 
-== Main Game Loop
+== Who it is for
 
-. Review the current board state.
-. Drop a piece into a strategic position.
-. Merge matching pieces to free space and increase value.
-. Repeat while managing board pressure and planning ahead.
+Drop & Merge suits players who enjoy:
 
-See xref:gameplay.adoc[Gameplay] for the core mechanics and xref:strategy.adoc[Strategy] for practical advice.
+* short, repeatable puzzle sessions;
+* steady, satisfying progress up a ladder;
+* chasing a personal best score.
 
-== TODO
+== Playing offline and privately
 
-* TODO: Confirm intended session length targets.
-* TODO: Add accessibility and audience notes after UX review.
+Drop & Merge needs no account and no sign-in, and you can play a full run with no network connection. Your best scores, leaderboard and settings are stored on your device. See the xref:privacy.adoc[Privacy policy] for how information is handled.
+
+== Platforms
+
+The game runs on Android and iOS phones and tablets, in a web browser, and on Windows, macOS and Linux desktops. Tilt and shake use device sensors and so are available on phones and tablets; on a computer the same actions are on-screen buttons.

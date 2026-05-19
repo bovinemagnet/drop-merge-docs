@@ -1,29 +1,9 @@
-= Scoring
+= Scoring & chains
 
-Scoring rules below are placeholders and should be finalized with the game design team.
+Points come from merges. Bigger merges, and well-timed chains, are where the high scores are made.
 
-== Scoring Model (Placeholder)
+include::partial$scoring.adoc[]
 
-Players typically earn points from:
+== Best scores and the leaderboard
 
-* Successful merges
-* Chain reactions
-* Survival over time or turns
-
-TODO: Confirm final scoring formula and bonus rules.
-
-== Sample Scoring Table
-
-[cols="1,2",options="header"]
-|===
-|Event |Example Points
-|Basic merge |10
-|Higher-tier merge |25
-|Chain merge bonus |+5 per additional merge
-|End-of-round board bonus |50
-|===
-
-== Notes
-
-* Values in this table are examples only.
-* See xref:release-notes.adoc[Release Notes] for future scoring updates.
+include::partial$leaderboard.adoc[]

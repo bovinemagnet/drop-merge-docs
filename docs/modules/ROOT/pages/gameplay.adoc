@@ -1,43 +1,17 @@
-= Gameplay
+= How to play
 
-== Basic Concept
+This page covers the moment-to-moment game. It works the same way in every edition of Drop & Merge.
 
-In each turn, the player places a piece on the board.
-When matching pieces connect according to game rules, they merge into a higher-value piece.
+== The goal
 
-== Dropping Pieces
+include::partial$objective.adoc[]
 
-Typical turn flow:
+== Aiming and dropping
 
-. The next piece is shown to the player.
-. The player chooses where to drop it.
-. The board updates and resolves merges.
+include::partial$aiming.adoc[]
 
-TODO: Define exact placement constraints (for example, gravity behavior, blocked cells, or lane rules).
+== Merging pieces
 
-== Merging Pieces
+include::partial$merging.adoc[]
 
-Merges are triggered when matching pieces meet valid merge conditions.
-Merged results produce a stronger or higher-value piece.
-
-TODO: Confirm whether chain merges are always enabled and whether merge priority is deterministic.
-
-== Board Management
-
-Good board management includes:
-
-* Keeping flexible space open for future turns
-* Avoiding isolated low-value pieces
-* Planning for chain reactions
-
-You can pair this with xref:strategy.adoc[Strategy] guidance.
-
-== Game Over Conditions
-
-Placeholder game-over examples:
-
-* Board has no valid placement space
-* Move limit is reached (if used)
-* Timer expires (if used)
-
-TODO: Finalize official game-over rules.
+For every piece that can appear and how each edition is themed, see xref:games.adoc[The games]. The rare rainbow piece has its own page: xref:wildcard.adoc[The wildcard].

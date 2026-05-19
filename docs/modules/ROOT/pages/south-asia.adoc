@@ -1,0 +1,75 @@
+= Drop & Merge — South Asia
+
+South Asian mythology offers a rich ladder of mythic beings — from temple spirits and cobra spirits through the yaksha, naga, garuda and fearsome rakshasa, then ascending to celestial mounts such as the great white elephant Airavata and the mighty World Turtle Avatar who carries the cosmos on his back. Every piece is drawn from the deep traditions of Hindu, Buddhist and Jain mythology.
+
+This is one edition of *Drop & Merge*. Its pieces are themed to South Asian mythology, but it plays exactly like every other edition — see xref:games.adoc[The games] for the rest of the family.
+
+== The myth ladder
+
+You merge your way up 16 mythic beings. You can drop only the five smallest; every larger piece is made by merging two of the kind below it.
+
+[cols="1,3,1,2",options="header"]
+|===
+|Tier |Piece |Points |How you get it
+
+|1 |Spirit Skull |1 |Dropped
+|2 |Temple Rat |3 |Dropped
+|3 |Cobra Spirit |6 |Dropped
+|4 |Monkey Spirit |10 |Dropped
+|5 |Yaksha |15 |Dropped
+|6 |Naga |21 |Merged
+|7 |Garuda |28 |Merged
+|8 |Rakshasa |36 |Merged
+|9 |Vanara Warrior |45 |Merged
+|10 |Makara |55 |Merged
+|11 |White Elephant |66 |Merged
+|12 |Asura |78 |Merged
+|13 |Cosmic Serpent |91 |Merged
+|14 |Airavata |105 |Merged
+|15 |Celestial Guardian |120 |Merged
+|16 |World Turtle Avatar |136 |Merged — top tier
+|===
+
+Clearing the two World Turtle Avatar pieces awards a 700-point bonus.
+
+Tap *Characters* on the menu to browse every piece in this edition with a fact about it.
+
+== How to play
+
+include::partial$objective.adoc[]
+
+== Aiming and dropping
+
+include::partial$aiming.adoc[]
+
+== Merging pieces
+
+include::partial$merging.adoc[]
+
+== The wildcard
+
+include::partial$wildcard.adoc[]
+
+== Controls
+
+include::partial$controls.adoc[]
+
+== Scoring and chains
+
+include::partial$scoring.adoc[]
+
+== The danger line and game over
+
+include::partial$danger-line.adoc[]
+
+== Best scores
+
+include::partial$leaderboard.adoc[]
+
+== Settings
+
+include::partial$settings.adoc[]
+
+== Tips and strategy
+
+include::partial$strategy.adoc[]

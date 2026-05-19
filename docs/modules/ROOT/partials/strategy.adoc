@@ -1,0 +1,8 @@
+// Shared partial: tips and strategy.
+* *Aim, don't dump.* Drop each piece next to a matching one so it merges straight away instead of adding to the clutter.
+* *Build to one side.* Gather your largest pieces in one area and feed small pieces towards them, rather than scattering big pieces across the jar.
+* *Set up chains.* Line up several near-matches so a single drop sets off merge after merge -- chains multiply your score.
+* *Watch the danger line.* If a piece settles high, deal with it at once: merge it, or shake the pile to drop it down.
+* *Spend wildcards well.* Save a wildcard for a piece you cannot otherwise pair, or land it on a large piece to push towards the top-of-the-ladder clear.
+* *Use the NEXT preview.* Knowing the next piece lets you place the current one with a plan.
+* *Tune the challenge.* Anti-frustration help keeps a match handy for newer players; turn it off, or shorten the run timer, when you want more pressure.

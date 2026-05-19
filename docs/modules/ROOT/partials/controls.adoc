@@ -1,0 +1,14 @@
+// Shared partial: the control schemes.
+*Touch and mouse* -- drag to aim, then release or tap to drop. This works on every platform.
+
+*Tilt steering* -- on phones and tablets you can switch on *Tilt controls* in Settings.
+Tilting the device left or right then nudges a piece while it is still falling; it never moves the settled pile.
+Tilt is off by default.
+
+*Shake* -- give the phone a shake to jostle the pile.
+It is useful for knocking a piece down off the danger line.
+There is a short cooldown of a couple of seconds between shakes.
+
+*On a computer or in a browser* -- there is no tilt sensor, so the in-game display shows buttons instead: tilt left, tilt right and shuffle.
+
+*Pause* -- the pause button stops play and freezes the timer until you resume.

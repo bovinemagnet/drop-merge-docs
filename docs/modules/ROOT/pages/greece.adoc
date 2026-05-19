@@ -1,0 +1,75 @@
+= Drop & Merge — Greece
+
+Classical Greek mythology brings you a ladder of legendary beings — from bleached skeleton warriors through famous monsters such as the Minotaur, Cyclops, Medusa, the winged Pegasus and the many-headed Hydra, before ascending to the Titans and the great Olympian gods themselves. Every piece carries a story from the ancient world.
+
+This is one edition of *Drop & Merge*. Its pieces are themed to Greek mythology, but it plays exactly like every other edition — see xref:games.adoc[The games] for the rest of the family.
+
+== The Greek ladder
+
+You merge your way up 16 Greek myths. You can drop only the five smallest; every larger piece is made by merging two of the kind below it.
+
+[cols="1,3,1,2",options="header"]
+|===
+|Tier |Piece |Points |How you get it
+
+|1 |Skull |1 |Dropped
+|2 |Skeleton Warrior |3 |Dropped
+|3 |Harpy |6 |Dropped
+|4 |Satyr |10 |Dropped
+|5 |Minotaur |15 |Dropped
+|6 |Cyclops |21 |Merged
+|7 |Cerberus |28 |Merged
+|8 |Medusa |36 |Merged
+|9 |Pegasus |45 |Merged
+|10 |Hydra |55 |Merged
+|11 |Chimera |66 |Merged
+|12 |Kraken |78 |Merged
+|13 |Titan |91 |Merged
+|14 |Prometheus |105 |Merged
+|15 |Hades |120 |Merged
+|16 |Zeus Ascended |136 |Merged — top tier
+|===
+
+Clearing the two Zeus Ascended pieces awards a 700-point bonus.
+
+Tap *Characters* on the menu to browse every piece in this edition with a fact about it.
+
+== How to play
+
+include::partial$objective.adoc[]
+
+== Aiming and dropping
+
+include::partial$aiming.adoc[]
+
+== Merging pieces
+
+include::partial$merging.adoc[]
+
+== The wildcard
+
+include::partial$wildcard.adoc[]
+
+== Controls
+
+include::partial$controls.adoc[]
+
+== Scoring and chains
+
+include::partial$scoring.adoc[]
+
+== The danger line and game over
+
+include::partial$danger-line.adoc[]
+
+== Best scores
+
+include::partial$leaderboard.adoc[]
+
+== Settings
+
+include::partial$settings.adoc[]
+
+== Tips and strategy
+
+include::partial$strategy.adoc[]

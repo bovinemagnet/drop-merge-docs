@@ -1,0 +1,11 @@
+// Shared partial: aiming and dropping a piece.
+Your current piece waits at the top of the jar.
+Drag your finger -- or move the mouse -- left and right and the piece follows, always staying inside the walls.
+A faint guide line shows where it will land.
+
+* Release the drag, or simply tap, to drop the piece straight down.
+* A short cooldown of about half a second follows each drop before the next piece is ready, so there is no need to rush.
+* The *NEXT* panel previews the piece coming after this one, so you can plan two pieces ahead.
+
+Pieces fall under gravity, bounce a little and settle into the pile.
+You only ever choose _where_ a piece enters the jar -- physics does the rest.

@@ -1,0 +1,75 @@
+= Drop & Merge — Norse
+
+Norse mythology takes you from the restless dead and prowling wolves through Valkyries, trolls and the great serpent of the deep, all the way to the gods Odin and Thor and the apocalyptic beast that heralds Ragnarok. The ladder spans the full sweep of the Norse cosmos, from Hel's cold shores to the highest halls of Asgard.
+
+This is one edition of *Drop & Merge*. Its pieces are themed to Norse mythology, but it plays exactly like every other edition — see xref:games.adoc[The games] for the rest of the family.
+
+== The Norse ladder
+
+You merge your way up 16 Norse beings. You can drop only the five smallest; every larger piece is made by merging two of the kind below it.
+
+[cols="1,3,1,2",options="header"]
+|===
+|Tier |Piece |Points |How you get it
+
+|1 |Bone Skull |1 |Dropped
+|2 |Draugr |3 |Dropped
+|3 |Raven Spirit |6 |Dropped
+|4 |Wolf Cub |10 |Dropped
+|5 |Valkyrie |15 |Dropped
+|6 |Troll |21 |Merged
+|7 |Fenrir |28 |Merged
+|8 |Jormungandr |36 |Merged
+|9 |Frost Giant |45 |Merged
+|10 |Fire Giant |55 |Merged
+|11 |Sleipnir |66 |Merged
+|12 |Nidhogg |78 |Merged
+|13 |Hel |91 |Merged
+|14 |Odin |105 |Merged
+|15 |Thor Stormcaller |120 |Merged
+|16 |Ragnarok Beast |136 |Merged — top tier
+|===
+
+Clearing the two Ragnarok Beast pieces awards a 700-point bonus.
+
+Tap *Characters* on the menu to browse every piece in this edition with a fact about it.
+
+== How to play
+
+include::partial$objective.adoc[]
+
+== Aiming and dropping
+
+include::partial$aiming.adoc[]
+
+== Merging pieces
+
+include::partial$merging.adoc[]
+
+== The wildcard
+
+include::partial$wildcard.adoc[]
+
+== Controls
+
+include::partial$controls.adoc[]
+
+== Scoring and chains
+
+include::partial$scoring.adoc[]
+
+== The danger line and game over
+
+include::partial$danger-line.adoc[]
+
+== Best scores
+
+include::partial$leaderboard.adoc[]
+
+== Settings
+
+include::partial$settings.adoc[]
+
+== Tips and strategy
+
+include::partial$strategy.adoc[]

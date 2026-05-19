@@ -1,0 +1,7 @@
+// Shared partial: how pieces merge.
+When two pieces of the *same kind* come to rest touching each other, they disappear and a single piece of the *next kind up* appears between them.
+That is the whole game: merge upwards.
+
+* You only ever drop the *five smallest* pieces. Every larger piece is created by merging -- you cannot drop it directly.
+* A merge can trigger another merge. If a freshly made piece lands against its own twin, that pair merges too, and so on. Several merges in quick succession form a *chain*, which scores extra.
+* The piece at the *top of the ladder* is special: bring two of them together and both clear out of the jar for a large bonus, making room to keep playing.

@@ -1,0 +1,25 @@
+// Shared partial: scoring and chain multipliers.
+Every merge scores points equal to the value of the piece it creates.
+Values rise steeply up the ladder, so reaching the larger pieces matters far more than making many small merges.
+Each game's page lists the exact value of every piece.
+
+*Chains.*
+Merges that follow one another quickly -- each within about 0.6 seconds of the last -- build a chain, and a multiplier is applied to the points:
+
+[cols="1,1",options="header"]
+|===
+|Chain step |Score multiplier
+
+|First merge |×1
+|Second merge |×1.5
+|Third merge |×2
+|Fourth merge and beyond |×3
+|===
+
+Pause for longer than about 0.6 seconds and the chain resets to ×1.
+Setting up cascades -- one drop that triggers merge after merge -- is the key to a high score.
+
+*Top-of-the-ladder bonus.*
+Clearing the two biggest pieces awards a large bonus on top of the merge score, and that bonus is multiplied by any active chain.
+
+Your *best score* is saved on your device and shown on the menu.

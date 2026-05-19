@@ -1,0 +1,75 @@
+= Drop & Merge — K-Pop
+
+K-pop is a global phenomenon built on relentless training, precision choreography and spectacular stage craft. In this edition you rise through the industry from humble karaoke beginners and dance trainees, through rookies, viral dancers and arena idols, all the way to the ultimate stage: the Cosmic Idol God.
+
+This is one edition of *Drop & Merge*. Its pieces are themed to the world of K-pop, but it plays exactly like every other edition — see xref:games.adoc[The games] for the rest of the family.
+
+== The stardom ladder
+
+You merge your way up 16 performers. You can drop only the five smallest; every larger piece is made by merging two of the kind below it.
+
+[cols="1,3,1,2",options="header"]
+|===
+|Tier |Piece |Points |How you get it
+
+|1 |Karaoke Bean |1 |Dropped
+|2 |Dance Trainee |3 |Dropped
+|3 |Street Performer |6 |Dropped
+|4 |Idol Rookie |10 |Dropped
+|5 |Neon Vocalist |15 |Dropped
+|6 |Fashion Rapper |21 |Merged
+|7 |Viral Dancer |28 |Merged
+|8 |Variety Star |36 |Merged
+|9 |Main Vocalist |45 |Merged
+|10 |Arena Idol |55 |Merged
+|11 |World Tour Leader |66 |Merged
+|12 |Moonlight Diva |78 |Merged
+|13 |Galaxy Performer |91 |Merged
+|14 |Neon Emperor |105 |Merged
+|15 |Celestial Superstar |120 |Merged
+|16 |Cosmic Idol God |136 |Merged — top tier
+|===
+
+Clearing the two Cosmic Idol God pieces awards a 700-point bonus.
+
+Tap *Characters* on the menu to browse every piece in this edition with a fact about it.
+
+== How to play
+
+include::partial$objective.adoc[]
+
+== Aiming and dropping
+
+include::partial$aiming.adoc[]
+
+== Merging pieces
+
+include::partial$merging.adoc[]
+
+== The wildcard
+
+include::partial$wildcard.adoc[]
+
+== Controls
+
+include::partial$controls.adoc[]
+
+== Scoring and chains
+
+include::partial$scoring.adoc[]
+
+== The danger line and game over
+
+include::partial$danger-line.adoc[]
+
+== Best scores
+
+include::partial$leaderboard.adoc[]
+
+== Settings
+
+include::partial$settings.adoc[]
+
+== Tips and strategy
+
+include::partial$strategy.adoc[]

@@ -1,0 +1,5 @@
+= Settings
+
+Drop & Merge keeps its options short, and every edition has the same Settings screen.
+
+include::partial$settings.adoc[]

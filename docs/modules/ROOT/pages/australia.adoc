@@ -1,0 +1,75 @@
+= Drop & Merge — Australia
+
+The Australian Aboriginal Dreamtime is one of the world's oldest living mythologies, peopled with spirit creatures that shaped the land, sky and water. This edition moves from bone wisps and gecko spirits through the fearsome Yowie and the lurking Bunyip, up to the great Rainbow Serpent — creator of the waterways — and its transcendent cosmic form.
+
+This is one edition of *Drop & Merge*. Its pieces are themed to Australian Aboriginal Dreamtime folklore, but it plays exactly like every other edition — see xref:games.adoc[The games] for the rest of the family.
+
+== The Dreamtime ladder
+
+You merge your way up 16 Dreamtime spirits. You can drop only the five smallest; every larger piece is made by merging two of the kind below it.
+
+[cols="1,3,1,2",options="header"]
+|===
+|Tier |Piece |Points |How you get it
+
+|1 |Bone Wisp |1 |Dropped
+|2 |Gecko Spirit |3 |Dropped
+|3 |Bush Hopper |6 |Dropped
+|4 |Glow Possum |10 |Dropped
+|5 |Dream Owl |15 |Dropped
+|6 |Quinkin |21 |Merged
+|7 |Spirit Kangaroo |28 |Merged
+|8 |Yowie |36 |Merged
+|9 |Crocodile Guardian |45 |Merged
+|10 |Bunyip |55 |Merged
+|11 |Thunder Beast |66 |Merged
+|12 |Sand Titan |78 |Merged
+|13 |Rainbow Serpent |91 |Merged
+|14 |Sky Dreamer |105 |Merged
+|15 |Star Serpent |120 |Merged
+|16 |Cosmic Rainbow Serpent |136 |Merged — top tier
+|===
+
+Clearing the two Cosmic Rainbow Serpent pieces awards a 700-point bonus.
+
+Tap *Characters* on the menu to browse every piece in this edition with a fact about it.
+
+== How to play
+
+include::partial$objective.adoc[]
+
+== Aiming and dropping
+
+include::partial$aiming.adoc[]
+
+== Merging pieces
+
+include::partial$merging.adoc[]
+
+== The wildcard
+
+include::partial$wildcard.adoc[]
+
+== Controls
+
+include::partial$controls.adoc[]
+
+== Scoring and chains
+
+include::partial$scoring.adoc[]
+
+== The danger line and game over
+
+include::partial$danger-line.adoc[]
+
+== Best scores
+
+include::partial$leaderboard.adoc[]
+
+== Settings
+
+include::partial$settings.adoc[]
+
+== Tips and strategy
+
+include::partial$strategy.adoc[]

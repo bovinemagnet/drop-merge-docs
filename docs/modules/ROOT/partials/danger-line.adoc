@@ -1,0 +1,18 @@
+// Shared partial: the danger line, overflow and game over.
+A marked *danger line* sits near the top of the jar.
+As the pile rises towards it, the line glows brighter and pulses faster as a warning.
+
+A run ends when a piece *comes to rest above the danger line and stays there*.
+A near miss is not punished:
+
+* a piece that has only just been dropped is safe for a moment while it falls and settles;
+* a piece bouncing or rolling above the line is safe until it actually stops;
+* once a piece is genuinely at rest above the line you have about *two seconds* to clear it -- merge it away, or shake the pile to knock it down -- before the run ends.
+
+*Run timer.*
+A game can also be timed.
+The timer starts on your first drop, and the run ends when it reaches zero.
+A run lasts one minute by default; you can set it anywhere from one to ten minutes in Settings.
+
+When a run ends you see a summary -- final score, the biggest piece you reached, total merges, your best chain and the run time -- together with the leaderboard.
+Choose *Play again* for a fresh run, or *Back to menu*.

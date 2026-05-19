@@ -1,0 +1,68 @@
+= Drop & Merge — Animals
+
+Inspired by the beloved cumulative nursery rhyme "There Was an Old Lady Who Swallowed a Fly", this edition sends each new animal in to catch the last one. The pieces follow the rhyme's own escalating logic — from a tiny fly, through spider, bird, cat and dog, all the way up to the Old Lady herself.
+
+This is one edition of *Drop & Merge*. Its pieces are themed to the cumulative nursery rhyme, but it plays exactly like every other edition — see xref:games.adoc[The games] for the rest of the family.
+
+== The animal ladder
+
+You merge your way up 9 animals. You can drop only the five smallest; every larger piece is made by merging two of the kind below it.
+
+[cols="1,3,1,2",options="header"]
+|===
+|Tier |Piece |Points |How you get it
+
+|1 |Fly |1 |Dropped
+|2 |Spider |3 |Dropped
+|3 |Bird |6 |Dropped
+|4 |Cat |10 |Dropped
+|5 |Dog |15 |Dropped
+|6 |Goat |21 |Merged
+|7 |Cow |28 |Merged
+|8 |Horse |36 |Merged
+|9 |Old Lady |45 |Merged — top tier
+|===
+
+Clearing the two Old Lady pieces awards a 250-point bonus.
+
+Tap *Characters* on the menu to browse every piece in this edition with a fact about it.
+
+== How to play
+
+include::partial$objective.adoc[]
+
+== Aiming and dropping
+
+include::partial$aiming.adoc[]
+
+== Merging pieces
+
+include::partial$merging.adoc[]
+
+== The wildcard
+
+include::partial$wildcard.adoc[]
+
+== Controls
+
+include::partial$controls.adoc[]
+
+== Scoring and chains
+
+include::partial$scoring.adoc[]
+
+== The danger line and game over
+
+include::partial$danger-line.adoc[]
+
+== Best scores
+
+include::partial$leaderboard.adoc[]
+
+== Settings
+
+include::partial$settings.adoc[]
+
+== Tips and strategy
+
+include::partial$strategy.adoc[]

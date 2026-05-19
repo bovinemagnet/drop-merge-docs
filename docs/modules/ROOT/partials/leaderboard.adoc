@@ -1,0 +1,9 @@
+// Shared partial: best score and the local leaderboard.
+The game keeps a local leaderboard of your *ten best runs*.
+Runs are ranked first by score; a tie is broken by the faster time, so a quick, efficient run beats a slow one on the same score.
+
+Each entry records the score, the run time and when it was set.
+The leaderboard appears on the game-over screen, and your single best score is shown on the menu.
+
+Everything is stored on your own device -- there is no sign-in and no online leaderboard.
+The *Reset progress* button in Settings clears your best score and the leaderboard for that game.

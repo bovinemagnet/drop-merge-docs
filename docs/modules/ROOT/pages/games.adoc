@@ -1,0 +1,27 @@
+= The games
+
+*Drop & Merge* is published as a family of separate apps. Each one is a complete game with its own theme and its own ladder of pieces — but the rules, controls and scoring are identical, so once you have learned one you have learned them all.
+
+Each edition's page lists its full ladder and explains how to play.
+
+[cols="2,3,1",options="header"]
+|===
+|Edition |Theme |Pieces
+
+|xref:fruit.adoc[Drop & Merge — Fruit] |Cherries to watermelons — the classic fruit merge |11
+|xref:animals.adoc[Drop & Merge — Animals] |The nursery rhyme "There Was an Old Lady Who Swallowed a Fly" |9
+|xref:japan.adoc[Drop & Merge — Japan] |Japanese yokai and folklore spirits |16
+|xref:china.adoc[Drop & Merge — China] |Chinese myth, from wandering spirits to celestial beasts |16
+|xref:mythology.adoc[Drop & Merge — Mythology] |Legendary creatures gathered from world mythologies |16
+|xref:norse.adoc[Drop & Merge — Norse] |Norse myth, from draugr to the beast of Ragnarok |16
+|xref:greece.adoc[Drop & Merge — Greece] |Classical Greek monsters and Olympian gods |16
+|xref:indigenous.adoc[Drop & Merge — Indigenous] |North American Indigenous spirit creatures |15
+|xref:south-asia.adoc[Drop & Merge — South Asia] |South Asian deities and mythic beings |16
+|xref:zodiac.adoc[Drop & Merge — Zodiac] |The twelve animals of the Chinese zodiac |12
+|xref:indonesia.adoc[Drop & Merge — Indonesia] |Indonesian island spirits |16
+|xref:australia.adoc[Drop & Merge — Australia] |Australian Dreamtime spirit creatures |16
+|xref:korea.adoc[Drop & Merge — Korea] |Korean folklore spirits |16
+|xref:kpop.adoc[Drop & Merge — K-Pop] |A rise through the world of K-pop stardom |16
+|===
+
+New to the game? Start with xref:gameplay.adoc[How to play].
