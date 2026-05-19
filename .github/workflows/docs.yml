@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   docs:
@@ -47,20 +47,24 @@ jobs:
           name: github-wiki
           path: build/wiki
 
-      # Optional wiki publishing example:
-      #
-      # - name: Publish wiki content (optional)
-      #   if: github.event_name == 'workflow_dispatch'
-      #   env:
-      #     GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #   run: |
-      #     set -eu
-      #     git clone "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.wiki.git" wiki-repo
-      #     rm -rf wiki-repo/*
-      #     cp -R build/wiki/. wiki-repo/
-      #     cd wiki-repo
-      #     git config user.name "github-actions[bot]"
-      #     git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      #     git add .
-      #     git commit -m "docs: sync wiki content" || echo "No wiki changes to commit"
-      #     git push
+      # Publishes generated wiki pages to the repository .wiki Git repo.
+      # Runs on push to main and manual dispatch, but never on pull requests.
+      - name: Publish GitHub Wiki
+        if: github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -eu
+          git clone "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.wiki.git" wiki-repo
+          rm -rf wiki-repo/*
+          cp -R build/wiki/. wiki-repo/
+          cd wiki-repo
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No wiki changes to publish."
+          else
+            git commit -m "docs: sync wiki content"
+            git push
+          fi
