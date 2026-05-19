@@ -1,0 +1,16 @@
+site:
+  title: Drop and Merge Documentation
+  start_page: drop-and-merge::index.adoc
+
+content:
+  sources:
+    - url: .
+      branches: HEAD
+      start_path: docs
+
+ui:
+  bundle:
+    url: ./ui-bundle.zip
+
+output:
+  dir: build/site

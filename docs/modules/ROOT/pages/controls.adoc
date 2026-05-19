@@ -1,0 +1,28 @@
+= Controls
+
+== Touch Controls
+
+Typical touch behavior:
+
+* Tap a target column or board cell to place a piece
+* Drag and release to aim placement
+
+TODO: Confirm whether tap and drag are both supported on all mobile platforms.
+
+== Mouse Controls
+
+Typical desktop behavior:
+
+* Move cursor to target area
+* Left-click to place the current piece
+
+TODO: Add sensitivity/settings details if adjustable aiming is supported.
+
+== Keyboard Controls (Optional)
+
+Keyboard support may include:
+
+* Arrow keys to move target
+* Enter/Space to confirm placement
+
+TODO: Confirm whether keyboard controls are part of the final shipping scope.

@@ -1,0 +1,5 @@
+name: drop-and-merge
+title: Drop and Merge
+version: main
+nav:
+  - modules/ROOT/nav.adoc
