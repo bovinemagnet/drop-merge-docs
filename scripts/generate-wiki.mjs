@@ -103,7 +103,8 @@ async function generateWikiPages() {
   try {
     await cp(imagesDir, path.join(wikiDir, 'images'), { recursive: true, force: true });
   } catch (error) {
-    if (error && error.code !== 'ENOENT') {
+    const errorCode = typeof error === 'object' && error !== null && 'code' in error ? error.code : undefined;
+    if (errorCode !== 'ENOENT') {
       throw error;
     }
   }
@@ -115,7 +116,7 @@ async function main() {
     console.log(`Wiki pages generated in ${wikiDir}`);
   } catch (error) {
     console.error('Failed to generate wiki pages.');
-    console.error(error instanceof Error ? error.message : error);
+    console.error(error instanceof Error ? error.message : String(error));
     process.exitCode = 1;
   }
 }
