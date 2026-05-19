@@ -1,0 +1,28 @@
+= Overview
+
+== What Is Drop and Merge?
+
+*Drop and Merge* is a casual puzzle game focused on planning, placement, and timing.
+Players drop numbered or themed pieces onto a board and merge matching pieces to create higher-value outcomes.
+
+== Target Audience
+
+This game is designed for players who enjoy:
+
+* Short puzzle sessions
+* Incremental mastery
+* Clear, satisfying progression
+
+== Main Game Loop
+
+. Review the current board state.
+. Drop a piece into a strategic position.
+. Merge matching pieces to free space and increase value.
+. Repeat while managing board pressure and planning ahead.
+
+See xref:gameplay.adoc[Gameplay] for the core mechanics and xref:strategy.adoc[Strategy] for practical advice.
+
+== TODO
+
+* TODO: Confirm intended session length targets.
+* TODO: Add accessibility and audience notes after UX review.

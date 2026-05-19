@@ -1,0 +1,30 @@
+= FAQ
+
+== What kind of game is Drop and Merge?
+
+It is a casual puzzle game centered on dropping and merging matching pieces for higher-value outcomes.
+
+== Is there a win condition?
+
+That depends on the final mode design.
+Some modes may be endless, while others may use score or objective targets.
+
+== Why did my run end?
+
+Common placeholder reasons include no valid placement space, turn limits, or time limits.
+See xref:gameplay.adoc[Gameplay] for current guidance.
+
+== Are powerups required?
+
+Not necessarily.
+Powerups are optional placeholders until design is finalized.
+See xref:powerups.adoc[Powerups].
+
+== Where can I find update history?
+
+See xref:release-notes.adoc[Release Notes].
+
+== TODO
+
+* TODO: Add platform-specific FAQ entries.
+* TODO: Add troubleshooting guidance with screenshots.

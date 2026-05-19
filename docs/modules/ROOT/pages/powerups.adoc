@@ -1,0 +1,21 @@
+= Powerups
+
+Powerups are optional and depend on final game design decisions.
+
+== Placeholder Powerup Concepts
+
+Potential examples:
+
+* *Shuffle*: Rearranges part of the board
+* *Clear Tile*: Removes a selected low-value piece
+* *Upgrade*: Immediately increases one piece tier
+
+== Design Considerations
+
+* Powerups should support strategy without removing puzzle challenge.
+* Availability and cooldown rules must be balanced.
+
+== TODO
+
+* TODO: Confirm whether powerups are included in launch scope.
+* TODO: Document unlock methods, costs, and limits.

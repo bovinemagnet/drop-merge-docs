@@ -1,0 +1,29 @@
+= Scoring
+
+Scoring rules below are placeholders and should be finalized with the game design team.
+
+== Scoring Model (Placeholder)
+
+Players typically earn points from:
+
+* Successful merges
+* Chain reactions
+* Survival over time or turns
+
+TODO: Confirm final scoring formula and bonus rules.
+
+== Sample Scoring Table
+
+[cols="1,2",options="header"]
+|===
+|Event |Example Points
+|Basic merge |10
+|Higher-tier merge |25
+|Chain merge bonus |+5 per additional merge
+|End-of-round board bonus |50
+|===
+
+== Notes
+
+* Values in this table are examples only.
+* See xref:release-notes.adoc[Release Notes] for future scoring updates.

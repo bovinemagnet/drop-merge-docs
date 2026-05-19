@@ -1,0 +1,28 @@
+= Release Notes
+
+Use this page to track documentation-visible changes for Drop and Merge.
+
+== Unreleased
+
+=== Added
+
+* Initial Antora documentation structure
+* Core gameplay, controls, scoring, and strategy pages
+
+=== Changed
+
+* TODO: Add release-specific gameplay adjustments
+
+=== Fixed
+
+* TODO: Add notable bug fix summaries relevant to players
+
+== 0.1.0 (Template)
+
+=== Added
+
+* TODO: Document first public feature set
+
+=== Notes
+
+* TODO: Add links to announcements or patch posts

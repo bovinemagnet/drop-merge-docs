@@ -1,0 +1,25 @@
+= Drop and Merge Documentation
+
+Welcome to the official documentation for *Drop and Merge*, a casual puzzle game where players drop items onto a board and merge matching items into higher-value items.
+
+Use this guide to understand gameplay basics, scoring, controls, and strategy.
+
+== Start Here
+
+* xref:overview.adoc[Game Overview]
+* xref:gameplay.adoc[How Gameplay Works]
+* xref:controls.adoc[Controls]
+* xref:scoring.adoc[Scoring]
+
+== Learn More
+
+* xref:strategy.adoc[Strategy Tips]
+* xref:levels.adoc[Levels and Progression]
+* xref:powerups.adoc[Powerups]
+* xref:faq.adoc[FAQ]
+* xref:release-notes.adoc[Release Notes]
+
+== TODO
+
+* TODO: Add screenshots of early, mid, and late board states.
+* TODO: Add platform-specific install links when available.

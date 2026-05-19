@@ -1,0 +1,21 @@
+= Strategy
+
+== Beginner Tips
+
+* Keep the center or highest-traffic area clear.
+* Merge early to avoid clutter.
+* Do not overcommit to one setup if board space is shrinking.
+
+== Intermediate Tips
+
+* Plan at least two turns ahead.
+* Build near-compatible clusters that can convert quickly.
+* Leave room for unexpected piece sequences.
+
+== Common Mistakes
+
+* Filling edges too early with low-value pieces
+* Chasing one large merge while ignoring board pressure
+* Ignoring chain opportunities in favor of immediate small points
+
+For fundamentals, review xref:gameplay.adoc[Gameplay] and xref:scoring.adoc[Scoring].
