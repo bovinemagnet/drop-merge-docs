@@ -6,3 +6,5 @@
 * *Spend wildcards well.* Save a wildcard for a piece you cannot otherwise pair, or land it on a large piece to push towards the top-of-the-ladder clear.
 * *Use the NEXT preview.* Knowing the next piece lets you place the current one with a plan.
 * *Tune the challenge.* Anti-frustration help keeps a match handy for newer players; turn it off, or shorten the run timer, when you want more pressure.
+* *Use power-ups at the right moment.* The Upgrade and Swap buttons change the piece you're holding, so use them just before a drop rather than saving them indefinitely. Compact is best when the pile is dense and uneven. Save Bomb for a high, stuck piece you cannot reach any other way. See xref:power-ups.adoc[Power-ups] for the full detail.
+* *Lucky merge -- patience pays.* When the lucky-merge banner appears you have a free same-tier merge without a collision. If you don't have two of the same kind exposed, drop a neutral piece first, then look again -- the offer stays until you resolve or cancel it. See xref:lucky-merges.adoc[Lucky merges].

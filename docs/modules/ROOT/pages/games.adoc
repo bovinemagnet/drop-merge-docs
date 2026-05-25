@@ -22,6 +22,9 @@ Each edition's page lists its full ladder and explains how to play.
 |xref:australia.adoc[Drop & Merge — Australia] |Australian Dreamtime spirit creatures |16
 |xref:korea.adoc[Drop & Merge — Korea] |Korean folklore spirits |16
 |xref:kpop.adoc[Drop & Merge — K-Pop] |A rise through the world of K-pop stardom |16
+|Drop & Merge — Bee Colony Merge |A bee colony, from tiny workers to the queen |9
+|Drop & Merge — Cheeky Rabbit Merge |Mischievous rabbits in a series of scrapes |16
+|Drop & Merge — Rabbit Mischief Merge |More rabbit mischief up a longer ladder |16
 |===
 
 New to the game? Start with xref:gameplay.adoc[How to play].

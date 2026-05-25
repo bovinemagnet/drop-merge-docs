@@ -1,0 +1,29 @@
+= Daily Challenge
+
+The Daily Challenge is a once-a-day special run where every player in the world gets the exact same sequence of pieces.
+
+== How to start one
+
+On the main menu, tap the *Daily Challenge* card beneath the Play button.
+
+== What makes it different
+
+* *Fixed timer.* Every daily run lasts exactly three minutes, regardless of what the Run timer is set to in Settings.
+* *Same pieces for everyone.* The piece sequence is seeded from today's date, so every player faces the same drops in the same order.
+  Anti-frustration help is turned off so that the experience is identical for all players.
+* *Per-day best score.* The game records your best score for each calendar day.
+  Playing again on the same day keeps your highest attempt.
+* *Streak.* Complete a daily run on consecutive days and your streak count rises.
+  Miss a day and the streak resets.
+
+== Endless and Daily Challenge
+
+Daily Challenge is separate from xref:avoiding-game-over.adoc[Endless mode].
+The daily run always uses the fixed three-minute timer; you cannot change it to Endless.
+
+== Tips
+
+Because everyone gets the same pieces, the Daily Challenge is a good way to compare scores with friends.
+Focus on chains and clutch merges -- the piece sequence is the same for all, so efficient play is what separates scores.
+
+See xref:scoring.adoc[Scoring & chains] for how points are calculated.

@@ -1,0 +1,31 @@
+= Lucky merges
+
+A lucky merge is a rare bonus that lets you merge two matching pieces without a physical collision.
+
+== How it works
+
+With a small chance on each drop, the game offers you a lucky merge.
+A banner appears across the HUD: *"Lucky merge ready -- tap two of the same kind"*.
+While the offer is active:
+
+. Tap any piece on the board to select it as your first target.
+. Tap a second piece of the *same tier* to complete the merge -- the two pieces merge into the next tier up, just as if they had collided normally.
+
+You can tap the *X* on the banner at any time to cancel the offer and return to normal play.
+
+== Rules and edge cases
+
+* You cannot select a wildcard piece or a piece at the very top of the ladder (there is no tier above it to merge into).
+* If you tap two pieces of *different* tiers your first selection is cleared so you can try again -- the offer itself stays active.
+* The offer stays until you either resolve it or cancel it, even across several drops.
+
+== On the game-over screen
+
+Lucky merges are counted separately and shown on the game-over screen when you completed at least one during the run.
+
+== Tips
+
+Save the lucky merge for a piece that is trapped or hard to reach -- it does not matter where on the board the two pieces are, so you can pair two pieces at opposite ends of the jar.
+If the current state of the board gives you no obvious pair, drop a neutral piece first to open up a match.
+
+See xref:scoring.adoc[Scoring & chains] for how merge points are counted, and xref:strategy.adoc[Tips & strategy] for more advice.

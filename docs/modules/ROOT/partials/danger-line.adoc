@@ -13,6 +13,7 @@ A near miss is not punished:
 A game can also be timed.
 The timer starts on your first drop, and the run ends when it reaches zero.
 A run lasts one minute by default; you can set it anywhere from one to ten minutes in Settings.
+Set the timer to *Endless* and the run never times out -- it ends only when the jar overflows or you tap *Finish game* in the pause menu; the HUD shows ∞ instead of a countdown.
 
 When a run ends you see a summary -- final score, the biggest piece you reached, total merges, your best chain and the run time -- together with the leaderboard.
 Choose *Play again* for a fresh run, or *Back to menu*.

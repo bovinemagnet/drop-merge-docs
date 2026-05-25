@@ -2,6 +2,23 @@
 
 This page lists player-facing changes across releases of Drop & Merge.
 
+== 1.1.0
+
+=== Added
+
+* *Difficulty presets.* A single Settings selector -- Easy, Normal, Hard -- rolls the aim guide, landing preview and auto-drop timer into one choice. Easy (default) shows both the aim line and the landing ghost with no time pressure. Normal shows the aim line only and auto-drops after 10 seconds. Hard removes all guides and auto-drops after 5 seconds. The separate aim-guide toggle has been removed.
+* *Power-ups.* Earn charges of four in-run abilities by building merge chains: Upgrade (bump held piece up a tier), Swap (drop it down a tier), Compact (squeeze the pile), and Bomb (remove any piece from the board). See xref:power-ups.adoc[Power-ups].
+* *Lucky merges.* A small chance each drop offers a free merge between any two same-tier pieces on the board, without a collision. See xref:lucky-merges.adoc[Lucky merges].
+* *Clutch scoring.* Merges near the danger line earn an extra clutch multiplier on top of the chain multiplier, rewarding calm play under pressure.
+* *Endless mode.* Set the run timer to Endless and the run never times out -- end it yourself via *Finish game* in the pause menu.
+* *Daily Challenge.* A once-a-day seeded run -- same pieces for every player -- with a fixed three-minute timer, a per-day best score, and a consecutive-day streak. See xref:daily-challenge.adoc[Daily Challenge].
+* *Landing preview ghost.* On Easy difficulty a translucent ghost of the held piece is shown at its predicted landing position.
+* *Active piece settling.* The game now actively nudges pieces to rest, so the pile settles more crisply after each drop.
+* *Per-piece physics.* Each tier in a pack can have its own weight, bounce, friction and spin tuning -- heavier pieces feel heavier, some roll, some plant.
+* *Three new themed editions.* Bee Colony Merge (9 pieces), Cheeky Rabbit Merge (16 pieces) and Rabbit Mischief Merge (16 pieces). See xref:games.adoc[The games].
+* *New settings.* Keep pieces upright (sprites stay right-side up), Piece distance (adds spacing between pieces), and Reduce motion (damps particles and confetti).
+* *Game-over stats.* The summary screen now shows Best clutch multiplier, Lucky merges and Power-ups used alongside the base trio of Merges, Best chain and Run time.
+
 == 1.0.0
 
 The first public release.

@@ -1,0 +1,44 @@
+= Power-ups
+
+Power-ups are special abilities you earn during a run by building long merge chains.
+They appear on the *ability rail* above the piece ladder in the HUD, each with a charge count.
+Tap a button to spend one charge.
+
+== How you earn them
+
+Each power-up has a chain milestone.
+The first time your chain reaches that depth in a run, you gain a charge.
+Chaining longer in the same run does not re-award the same threshold -- each milestone fires once per run.
+
+== The four power-ups
+
+*Upgrade.*
+Bumps your currently held piece up one tier on the ladder.
+Use it just before a drop to turn an awkward small piece into something more useful.
+You can hold up to two Upgrade charges at once.
+Upgrade is awarded when your chain first reaches depth 3.
+
+*Swap.*
+Drops your held piece down one tier.
+Handy when the piece you're holding is too large to fit a gap you're trying to fill.
+You can hold up to two Swap charges at once.
+Swap is awarded when your chain first reaches depth 2.
+
+*Compact.*
+Delivers a firm inward and downward nudge to every piece on the board, squeezing the pile into its own gaps.
+Use it when the pile is messy and uneven to buy a bit of headroom.
+You can hold one Compact charge at a time.
+Compact is awarded when your chain first reaches depth 4.
+
+*Bomb.*
+Removes a single piece from the board without a merge.
+Tap *Bomb* to arm it -- the button glows to show it's ready -- then tap any piece on the board to remove it.
+If you miss the piece, the bomb stays armed so you can try again.
+The charge is only spent when a piece is actually removed.
+You can hold one Bomb charge at a time.
+Bomb is awarded when your chain first reaches depth 5.
+
+NOTE: Which power-ups are available and how many charges you can carry depends on the edition.
+Some packs may ship fewer power-up types or different charge caps.
+
+See xref:scoring.adoc[Scoring & chains] for how chain depth is calculated, and xref:strategy.adoc[Tips & strategy] for advice on when to use each power-up.

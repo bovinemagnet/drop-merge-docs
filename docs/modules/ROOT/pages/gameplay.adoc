@@ -15,3 +15,18 @@ include::partial$aiming.adoc[]
 include::partial$merging.adoc[]
 
 For every piece that can appear and how each edition is themed, see xref:games.adoc[The games]. The rare rainbow piece has its own page: xref:wildcard.adoc[The wildcard].
+
+== Power-ups
+
+Earn charges of four special abilities -- Upgrade, Swap, Compact and Bomb -- by building long merge chains.
+See xref:power-ups.adoc[Power-ups] for how each one works and when to use it.
+
+== Lucky merges
+
+Occasionally you'll be offered a free merge between two matching pieces anywhere on the board, without needing a physical collision.
+See xref:lucky-merges.adoc[Lucky merges] for how to resolve the offer.
+
+== Daily Challenge
+
+A once-a-day run seeded from today's date, so every player gets the same pieces.
+See xref:daily-challenge.adoc[Daily Challenge] for the details.

@@ -19,6 +19,12 @@ Merges that follow one another quickly -- each within about 0.6 seconds of the l
 Pause for longer than about 0.6 seconds and the chain resets to ×1.
 Setting up cascades -- one drop that triggers merge after merge -- is the key to a high score.
 
+*Clutch bonus.*
+A merge that happens close to the danger line earns an extra *clutch* multiplier on top of the chain multiplier.
+Right at the line the bonus reaches its maximum (×2 in the Fruit edition); further down the pile it scales down to ×1, and merges well away from the line earn nothing extra.
+When a clutch is active a *CLUTCH* badge appears alongside the chain badge in the HUD.
+Your best clutch multiplier in a run is shown on the game-over screen.
+
 *Top-of-the-ladder bonus.*
 Clearing the two biggest pieces awards a large bonus on top of the merge score, and that bonus is multiplied by any active chain.
 

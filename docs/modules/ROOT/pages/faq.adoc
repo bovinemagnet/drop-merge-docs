@@ -41,9 +41,36 @@ See xref:scoring.adoc[Scoring & chains].
 No. Drop & Merge needs no account and no sign-in, and a run can be played fully offline.
 See xref:overview.adoc[About the game] and the xref:privacy.adoc[Privacy policy].
 
+== What are the difficulty levels?
+
+There are three: Easy, Normal and Hard.
+Easy (the default) shows a dashed aim line and a translucent ghost of the piece at its predicted landing spot, with no time pressure.
+Normal shows the aim line only and auto-drops the piece after 10 seconds.
+Hard removes all guides and auto-drops after 5 seconds.
+You can change the difficulty in xref:settings.adoc[Settings].
+
+== What are power-ups?
+
+Power-ups are special abilities -- Upgrade, Swap, Compact and Bomb -- that you earn by building long merge chains during a run.
+They appear on a rail above the piece ladder; tap a button to spend a charge.
+See xref:power-ups.adoc[Power-ups] for the full detail.
+
+== What is the Daily Challenge?
+
+A once-a-day run seeded from today's date, so every player gets the same piece sequence.
+It lasts three minutes and records a per-day best score and a consecutive-day streak.
+Tap the *Daily Challenge* card on the main menu to start one.
+See xref:daily-challenge.adoc[Daily Challenge].
+
+== What does Endless mode do?
+
+Set the run timer to *Endless* in Settings and the run never times out.
+The HUD shows ∞ instead of a countdown.
+The run ends only when the jar overflows or you tap *Finish game* in the pause menu.
+
 == How do I turn off the sound, or change the run length?
 
-In Settings: Sound effects and Haptics can each be turned off, and the Run timer can be set from one to ten minutes.
+In Settings: Sound effects and Haptics can each be turned off, and the Run timer can be set from one to ten minutes (or Endless).
 See xref:settings.adoc[Settings].
 
 == What are tilt and shake controls?
