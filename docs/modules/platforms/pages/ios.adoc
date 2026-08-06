@@ -1,0 +1,98 @@
+= Playing on iPhone and iPad
+
+Drop & Merge plays as a small, self-contained app on iPhone and iPad.
+This page covers what you need, how to install it, and what to try if something is not behaving.
+
+== What you need
+
+Drop & Merge needs iOS 13 or later, on an iPhone or iPad.
+
+include::partial$requirements.adoc[]
+
+== Installing
+
+Open the App Store on your iPhone or iPad and search for *Drop & Merge*.
+Each themed edition -- Fruit, Animals, Collection and the rest -- is a separate app with its own icon, so look for the edition you want and tap *Get* to install it.
+
+NOTE: Drop & Merge is not yet published on the App Store. Once the listing goes live, a direct link will be added here.
+
+== Your first run
+
+include::partial$first-run.adoc[]
+
+.The main menu on iPhone
+image::ios/menu.png[The Drop & Merge main menu on an iPhone,width=280]
+
+.A run in progress
+image::ios/gameplay.png["A run in progress on iPhone, showing the score, the danger line and the piece ladder",width=280]
+
+== Tilt and shake
+
+include::partial$motion-controls.adoc[]
+
+The first time you use tilt, iOS may show a permission prompt for Motion & Fitness, since tilt steering reads the device's motion sensor.
+If you see it, tap *Allow*.
+If tilt still does not seem to respond, open the iOS *Settings* app (not the game's own Settings) and check *Privacy & Security > Motion & Fitness*, then check Drop & Merge's own entry further down the Settings app.
+
+== When you leave the app
+
+include::partial$pausing.adoc[]
+
+.The pause overlay
+image::ios/pause.png["The pause overlay on iPhone with Resume, Finish game, Restart and Menu",width=280]
+
+== If something is not working
+
+Most of the fixes below start in the game's own Settings screen.
+
+.The Settings screen
+image::ios/settings.png[The Drop & Merge settings screen on iPhone,width=280]
+
+[cols="1,3",options="header"]
+|===
+|Symptom |What to try
+
+|No sound
+|Check your device's volume, and check the Ring/Silent switch or any Focus mode is not muting alerts.
+Then check *Sound effects* is switched on in xref:ROOT:settings.adoc[Settings].
+
+|No vibration
+|Check *Haptics* is switched on in the game's xref:ROOT:settings.adoc[Settings].
+Then check iOS *Settings > Sounds & Haptics > System Haptics* is switched on.
+
+|Tilt does nothing
+|*Tilt controls* is off by default -- turn it on in xref:ROOT:settings.adoc[Settings] first.
+If it is already on and still nothing happens, check the motion permission described above.
+
+|Shake does nothing
+|Shake needs a brisk shake, not a gentle wobble -- a gentle movement is ignored on purpose.
+There is also a short cooldown of just under a second between shakes, so wait a moment and try again.
+
+|The game feels slow
+|Turn off Low Power Mode, and close any other apps running in the background.
+Turning on *Reduce motion* in the game's xref:ROOT:settings.adoc[Settings] also lightens the amount of decoration on screen.
+
+|Running low on storage
+|The *Collection* edition is the largest download, at roughly 100 MB, because it bundles the artwork and audio for every theme.
+A single-theme edition is a good deal smaller.
+Offloading the app rather than deleting it can free up space while keeping your data -- see below.
+|===
+
+== Your scores and data
+
+include::partial$data.adoc[]
+
+Because the app's data lives in the space iOS sets aside for it, it is included in a normal iPhone or iPad backup, whether that is an iCloud backup or a backup to a computer.
+Restoring a backup to a new device can bring your scores and settings along with the app, though this is not guaranteed for every backup and restore combination.
+
+iOS also distinguishes between *offloading* an app and *deleting* it, and the difference matters here.
+*Offload App* removes the app itself but keeps its data, so reinstalling later restores your scores and settings.
+*Delete App* removes both the app and its data together, matching the description above.
+
+== Also see
+
+* xref:android.adoc[Android]
+* xref:ROOT:controls.adoc[Controls]
+* xref:ROOT:settings.adoc[Settings]
+* xref:ROOT:faq.adoc[FAQ]
+* xref:ROOT:privacy.adoc[Privacy policy]

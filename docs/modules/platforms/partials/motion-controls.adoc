@@ -1,0 +1,13 @@
+// Shared partial: the motion controls, which exist only on phones and tablets.
+Tilt and shake are the two controls unique to a phone or tablet -- on a computer or in a browser the game shows on-screen buttons instead.
+
+*Tilt steering* is *off by default*.
+Turn on *Tilt controls* in Settings, and tilting the device left or right then nudges a piece while it is still falling.
+Tilt never moves pieces that have already settled, so it cannot be used to shove the pile around.
+
+*Shake* needs no setting and is always available.
+A brisk shake of the device jostles the pile, which is useful for knocking a piece down off the danger line.
+The game deliberately ignores gentle movement, and there is a short cooldown of just under a second between shakes so one physical shake produces one jostle.
+
+Both controls read the device's motion sensor.
+Neither one sends anything anywhere.

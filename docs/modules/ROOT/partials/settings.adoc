@@ -1,9 +1,16 @@
 // Shared partial: the settings screen.
 Open Settings from the gear icon on the menu.
+The screen is grouped into *Audio & feel*, *Accessibility*, *Game*, *Controls*, *Appearance* and *Content pack*, and the table below follows that order.
 
 [cols="1,3",options="header"]
 |===
 |Setting |What it does
+
+|Music |Turns the looping background music on or off. On by default.
+|Sound effects |Turns the drop, merge and pop sounds on or off. On by default.
+|Haptics |Turns vibration feedback -- on drops, merges and game over -- on or off. On by default.
+|High-contrast palette |Gives each piece a more distinct shape and outline, which helps if similar colours are hard to tell apart. Off by default.
+|Reduce motion |Damps decorative particles and confetti for a calmer screen. Off by default.
 
 |Difficulty
 |[[difficulty]]Sets the level of guidance and time pressure for each run.
@@ -11,16 +18,15 @@ Open Settings from the gear icon on the menu.
 *Normal* shows the aim line only and auto-drops the piece after 10 seconds.
 *Hard* removes all guides and auto-drops after 5 seconds.
 
-|Sound effects |Turns the drop, merge and pop sounds on or off. On by default.
-|Haptics |Turns vibration feedback -- on drops, merges and game over -- on or off. On by default.
-|Reduce motion |Damps decorative particles and confetti for a calmer screen. Off by default.
-|Keep pieces upright |Sprites stay right-side up while physics still rotates the underlying body. Off by default.
+|Game timer |Sets how long a run lasts, from one to ten minutes, or *Endless* -- which means the run never times out and ends only when the jar overflows or you tap *Finish game* in the pause menu. One minute by default.
 |Piece distance |A slider that adds a small gap around each piece -- useful if you find pieces cluster too tightly. Set to +0% by default.
+|Keep pieces upright |Sprites stay right-side up while physics still rotates the underlying body. Off by default.
+|Anti-frustration |Makes the next piece more likely to be one already in the jar, so a match is usually available. On by default -- turn it off for a tougher game.
 |Tilt controls |Lets you steer falling pieces by tilting the device. Phones and tablets only; off by default.
-|Anti-frustration help |Makes the next piece more likely to be one already in the jar, so a match is usually available. On by default -- turn it off for a tougher game.
-|Run timer |Sets how long a run lasts, from one to ten minutes, or *Endless* -- which means the run never times out and ends only when the jar overflows or you tap *Finish game* in the pause menu. One minute by default.
-|Theme |Switches the look between *Orchard*, which is warm and bright, and *Twilight*, which is dark.
+|Upside-down shuffle |Lets you flip or rotate the phone to tumble the pile. Phones and tablets only; off by default.
+|Twilight theme |Switches the look from *Orchard*, which is warm and bright, to *Twilight*, which is dark. Off by default, so the game starts in Orchard.
 |===
 
-Background music plays automatically.
-Settings also has a *Reset progress* button, which clears your best score and leaderboard, and a link to the *About* screen with the version, source link and licences.
+*Content pack* is a card rather than a setting: it names the edition you are playing, how many tiers its ladder has, and its pack version -- the same version shown at the foot of the main menu.
+
+Settings also has a *Reset progress* button, which clears the best score and leaderboard for the edition you are playing, and a link to the *About* screen with the version, source link and licences.

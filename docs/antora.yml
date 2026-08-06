@@ -3,3 +3,4 @@ title: Drop and Merge
 version: main
 nav:
   - modules/ROOT/nav.adoc
+  - modules/platforms/nav.adoc

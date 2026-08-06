@@ -1,0 +1,9 @@
+// Shared partial: foreground/background behaviour, identical on both platforms.
+*A run pauses itself when you leave the app.*
+Take a call, switch apps, or lock the screen mid-run, and the game pauses and freezes the countdown rather than letting the clock run down while you are not looking.
+
+Coming back does *not* start play again automatically.
+The pause overlay stays up until you tap to resume, so you are never dropped straight into a live run.
+
+The pause menu offers *Resume*, *Restart* and *Menu*.
+When the run timer is set to *Endless* it also offers *Finish game*, which ends the run then and there and records the score -- an endless run has no clock to end it for you.

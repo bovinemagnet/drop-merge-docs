@@ -1,0 +1,9 @@
+// Shared partial: what happens the first time the app is opened.
+. Tap the app icon to open it. The main menu appears with *Play*, the *Daily Challenge* card and a gear icon for Settings.
+. Tap *Play* to start a run straight away, or open Settings first if you want to change the run length or the difficulty.
+. Drag anywhere on the board to aim, then release to drop a piece. Two of the same piece merge into the next one up.
+
+Nothing is set up in advance and nothing is downloaded on first launch.
+Your first run also creates your best score, so there is no separate profile to create.
+
+See xref:ROOT:gameplay.adoc[How to play] for the full walkthrough, and xref:ROOT:settings.adoc[Settings] for every option.

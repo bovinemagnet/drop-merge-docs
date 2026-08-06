@@ -1,0 +1,102 @@
+= Playing on Android
+
+Drop & Merge runs on phones and tablets running Android.
+This page covers everything specific to the Android edition, from installing it to sorting out a device quirk.
+
+== What you need
+
+Drop & Merge needs Android 7.0 (Nougat) or later.
+
+include::partial$requirements.adoc[]
+
+== Installing
+
+Search for "Drop & Merge" in the Google Play Store.
+Tap *Install*, wait for the download to finish, then open the app from the store or from your home screen.
+
+[NOTE]
+====
+The Google Play listing is not live yet.
+The store link will be added here once it publishes.
+====
+
+== Your first run
+
+include::partial$first-run.adoc[]
+
+.The main menu on Android
+image::android/menu.png[The Drop & Merge main menu on an Android phone,width=280]
+
+.A run in progress
+image::android/gameplay.png["A run in progress on Android, showing the score, the danger line and the piece ladder",width=280]
+
+== Tilt and shake
+
+include::partial$motion-controls.adoc[]
+
+Android does not ask for a permission before either control works.
+The motion sensor they both read needs no runtime permission on this platform, so no prompt ever appears.
+
+== Permissions
+
+Drop & Merge asks for nothing at all.
+There is no internet permission, no location, no advertising ID and nothing else -- so there is nothing for you to grant.
+
+You can check this for yourself on your own device.
+Open *Settings > Apps > Drop & Merge > Permissions* and you will find the list empty.
+
+== When you leave the app
+
+include::partial$pausing.adoc[]
+
+.The pause overlay
+image::android/pause.png["The pause overlay on Android with Resume, Finish game, Restart and Menu",width=280]
+
+== If something is not working
+
+Most of the fixes below start in the game's own Settings screen.
+
+.The Settings screen
+image::android/settings.png[The Drop & Merge settings screen on Android,width=280]
+
+[cols="1,3",options="header"]
+|===
+|Symptom |What to try
+
+|No sound
+|Check your device volume and Do Not Disturb, then check the *Sound effects* setting in xref:ROOT:settings.adoc[Settings].
+
+|No vibration
+|Check the *Haptics* setting in xref:ROOT:settings.adoc[Settings], and your device's own system-wide vibration or touch-feedback toggle.
+
+|Tilt doing nothing
+|*Tilt controls* is off by default. Turn it on in xref:ROOT:settings.adoc[Settings].
+
+|Shake doing nothing
+|Give the device a brisk shake rather than a gentle one, and remember there is a short cooldown of just under a second between shakes.
+
+|Game feels slow or stuttery
+|Battery saver mode can throttle the device; try closing other apps. The *Reduce motion* setting in xref:ROOT:settings.adoc[Settings] calms the visual effects too.
+
+|Running out of storage
+|The *Collection* edition is the biggest download, at roughly 100 MB, because it carries every theme. A single-theme edition such as Fruit is a good deal smaller.
+|===
+
+== Your scores and data
+
+Here is what Drop & Merge keeps on your device, and how to clear it.
+
+include::partial$data.adoc[]
+
+If you have Google's backup for apps turned on, your saved data can be carried over automatically when you set up a new phone and reinstall the app -- this depends on your Google backup settings and Android version, so treat it as a possibility rather than a promise.
+
+Android's own *Clear data* (or *Clear storage*) option, found under *Settings > Apps > Drop & Merge > Storage*, goes further than the in-game *Reset progress* button.
+As well as your best score and leaderboard, it also clears your Daily Challenge scores and streak, your unlocked themes and your settings.
+
+== Also see
+
+* xref:ROOT:controls.adoc[Controls]
+* xref:ROOT:settings.adoc[Settings]
+* xref:ROOT:faq.adoc[FAQ]
+* xref:ROOT:privacy.adoc[Privacy policy]
+* xref:ios.adoc[iPhone & iPad]
