@@ -1,0 +1,56 @@
+= On your phone or tablet
+
+Drop & Merge was built for a phone first, and it plays the same way on Android and on iOS.
+These pages cover the parts that are specific to each platform: installing the app, the motion controls, what the app stores on your device, and what to try when something is not behaving.
+
+== Pick your platform
+
+* xref:android.adoc[Android] — phones and tablets running Android 7.0 or later.
+* xref:ios.adoc[iPhone & iPad] — iOS 13 or later.
+
+[cols="1,1",frame=none,grid=none]
+|===
+a|
+.Android
+image::android/gameplay.png[A run in progress on Android,width=250]
+a|
+.iPhone
+image::ios/gameplay.png[A run in progress on iPhone,width=250]
+|===
+
+== The same on both
+
+The game itself does not change between platforms.
+The board, the pieces, the scoring, the power-ups and the Daily Challenge are identical, and so is every option on the Settings screen.
+
+include::partial$requirements.adoc[]
+
+== What differs
+
+[cols="1,2,2",options="header"]
+|===
+| |Android |iPhone & iPad
+
+|Minimum version
+|Android 7.0 (Nougat)
+|iOS 13
+
+|Permissions
+|None at all — the motion sensor needs no permission on Android
+|iOS may ask once for motion access when you first use tilt
+
+|Removing the app without losing scores
+|Not available — uninstalling clears the data
+|*Offload App* keeps your data; *Delete App* does not
+
+|Carrying scores to a new device
+|Possible through Google's backup for apps
+|Possible through an iCloud or computer backup
+|===
+
+Both are covered in full on the platform pages.
+
+== Playing somewhere else
+
+Drop & Merge also runs in a web browser and on Windows, macOS and Linux computers.
+Those have no motion sensor, so the game shows on-screen tilt and shuffle buttons instead — see xref:ROOT:controls.adoc[Controls].

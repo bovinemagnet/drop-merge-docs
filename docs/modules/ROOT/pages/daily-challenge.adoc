@@ -8,7 +8,7 @@ On the main menu, tap the *Daily Challenge* card beneath the Play button.
 
 == What makes it different
 
-* *Fixed timer.* Every daily run lasts exactly three minutes, regardless of what the Run timer is set to in Settings.
+* *Fixed timer.* Every daily run lasts exactly three minutes, regardless of what the Game timer is set to in Settings.
 * *Same pieces for everyone.* The piece sequence is seeded from today's date, so every player faces the same drops in the same order.
   Anti-frustration help is turned off so that the experience is identical for all players.
 * *Per-day best score.* The game records your best score for each calendar day.

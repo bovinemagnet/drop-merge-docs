@@ -1,0 +1,10 @@
+// Shared partial: what the game needs from a device, on either platform.
+Drop & Merge is a single-player game that runs entirely on your device.
+
+* *No account and no sign-in.* You can start playing the moment the app opens.
+* *No internet connection needed.* A run plays fully offline.
+* *Portrait only.* The game does not rotate to landscape; it is designed to be played one-handed.
+* *Sound and vibration* are on by default and can be turned off at any time in Settings.
+
+Each edition is a separate app with its own icon, its own best score and its own leaderboard.
+The *Collection* edition is the largest download because it carries the artwork and audio for every theme; a single-theme edition such as Fruit is a good deal smaller.

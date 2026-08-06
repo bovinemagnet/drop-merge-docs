@@ -64,13 +64,13 @@ See xref:daily-challenge.adoc[Daily Challenge].
 
 == What does Endless mode do?
 
-Set the run timer to *Endless* in Settings and the run never times out.
+Set the *Game timer* to *Endless* in Settings and the run never times out.
 The HUD shows ∞ instead of a countdown.
 The run ends only when the jar overflows or you tap *Finish game* in the pause menu.
 
 == How do I turn off the sound, or change the run length?
 
-In Settings: Sound effects and Haptics can each be turned off, and the Run timer can be set from one to ten minutes (or Endless).
+In Settings: Music, Sound effects and Haptics can each be turned off, and the Game timer can be set from one to ten minutes (or Endless).
 See xref:settings.adoc[Settings].
 
 == What are tilt and shake controls?

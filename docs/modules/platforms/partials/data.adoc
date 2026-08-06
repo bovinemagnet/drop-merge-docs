@@ -1,0 +1,25 @@
+// Shared partial: what is stored on the device and what clears it.
+Everything the game remembers is stored on your device, in the space the operating system sets aside for the app:
+
+* your best score for the edition you are playing;
+* a leaderboard of your ten best runs;
+* your best Daily Challenge score for each day, and your consecutive-day streak;
+* your settings -- difficulty, sound, haptics, run timer, theme and the rest;
+* in the *Collection* edition, which themes you have unlocked.
+
+None of it leaves the device, and none of it is visible to anyone else.
+There is no account to delete.
+See the xref:ROOT:privacy.adoc[Privacy policy] for the full statement.
+
+== Reset progress
+
+Settings has a *Reset progress* button.
+It clears the *best score and the leaderboard for the edition you are currently playing*.
+
+It is worth knowing what it leaves alone: your Daily Challenge best scores and day streak, your unlocked themes in the Collection edition, your settings, and anything stored by the other editions you have installed.
+Each edition is a separate app and keeps its own scores.
+
+== Uninstalling
+
+Removing the app removes its stored data with it, so your scores and settings go too.
+Reinstalling gives you a clean slate unless a device backup restores the old data along with the app.
