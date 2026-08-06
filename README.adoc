@@ -18,6 +18,10 @@ Generated files under `build/` are build artifacts and must not be edited manual
 ├── README.adoc
 ├── antora-playbook.yml
 ├── package.json
+├── ui-bundle.zip           <1>
+├── supplemental-ui/        <2>
+│   ├── css/site-extra.css
+│   └── partials/
 ├── docs/
 │   ├── antora.yml
 │   └── modules/
@@ -29,6 +33,20 @@ Generated files under `build/` are build artifacts and must not be edited manual
 │       └── platforms/
 └── .github/workflows/docs.yml
 ----
+<1> The Antora default UI, vendored so builds do not depend on a third-party host.
+<2> Branding overlaid on the bundle.
+
+== Site Theme
+
+The site uses the Antora default UI, vendored as `ui-bundle.zip`, with branding applied through `supplemental-ui/`.
+Antora merges those files over the bundle by path, so they either override a bundled file or add a new one.
+
+`supplemental-ui/css/site-extra.css`:: Colour overrides. The palette is declared once in the `:root` block at the top; change it there to re-brand the site.
+`supplemental-ui/partials/head-styles.hbs`:: Loads `site-extra.css` after the bundle's own stylesheet, so the overrides win.
+`supplemental-ui/partials/footer-content.hbs`:: Site footer.
+
+To take a newer upstream UI, replace `ui-bundle.zip` and rebuild.
+The supplemental files are applied on top of whatever bundle is present, so branding survives the upgrade.
 
 == Install Dependencies
 

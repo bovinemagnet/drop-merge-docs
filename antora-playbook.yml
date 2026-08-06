@@ -10,9 +10,14 @@ content:
       start_path: docs
 
 ui:
+  # The Antora default UI bundle is vendored into the repository so builds do
+  # not depend on fetching it from a third-party host. To take a newer upstream
+  # UI, replace ui-bundle.zip and re-run the build.
   bundle:
-    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
-    snapshot: true
+    url: ./ui-bundle.zip
+  # Branding overlaid on top of the bundle. Files here override or add to the
+  # bundle's own, keyed by path, and stay reviewable as plain text in git.
+  supplemental_files: ./supplemental-ui
 
 output:
   dir: build/site

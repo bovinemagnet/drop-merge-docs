@@ -1,0 +1,79 @@
+/*
+ * Drop and Merge documentation theme.
+ *
+ * Layered on top of the Antora default UI stylesheet, which is plain compiled
+ * CSS with no custom properties of its own. The palette is declared once here
+ * and applied to the default UI's selectors below, so re-branding the site
+ * means editing the :root block and nothing else.
+ */
+
+:root {
+  --dm-primary: #5b2c87;
+  --dm-primary-dark: #4a2470;
+  --dm-primary-light: #7b3fa0;
+  --dm-accent: #f5a623;
+  --dm-footer-text: #f4eef8;
+}
+
+/* Navbar ------------------------------------------------------------------ */
+
+.navbar {
+  background: var(--dm-primary);
+  border-bottom: 3px solid var(--dm-accent);
+}
+
+.navbar-item:hover,
+.navbar-item.is-active {
+  background: var(--dm-primary-dark);
+}
+
+/* Body links -------------------------------------------------------------- */
+
+.doc a,
+.doc a:visited {
+  color: var(--dm-primary-light);
+}
+
+.doc a:hover {
+  color: var(--dm-primary-dark);
+}
+
+/* Navigation sidebar ------------------------------------------------------ */
+
+.nav-menu .is-current-page > .nav-link {
+  color: var(--dm-primary-light);
+  font-weight: 600;
+}
+
+.nav-panel-menu .nav-list .nav-item.is-active > .nav-link {
+  color: var(--dm-primary-light);
+}
+
+/* Headings and rules ------------------------------------------------------ */
+
+.doc h1.page {
+  border-bottom: 2px solid var(--dm-accent);
+  padding-bottom: 0.3em;
+}
+
+/* Amber is a light hue, so it is used for accents and rules only, never as
+   text on a white background, where it would fail contrast requirements. */
+.doc .admonitionblock td.icon .title {
+  color: var(--dm-primary);
+}
+
+.doc blockquote {
+  border-left: 4px solid var(--dm-accent);
+}
+
+/* Footer ------------------------------------------------------------------ */
+
+footer.footer {
+  background-color: var(--dm-primary-dark);
+  color: var(--dm-footer-text);
+}
+
+.footer a,
+.footer a:visited {
+  color: var(--dm-accent);
+}
