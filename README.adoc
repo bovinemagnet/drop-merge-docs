@@ -1,12 +1,14 @@
 = Drop and Merge Documentation Repository
 
 This repository contains the official documentation source for *Drop and Merge*.
-It is a documentation-only repository built around Antora-compatible AsciiDoc, with a generation workflow for GitHub Wiki pages.
+It is a documentation-only repository built around Antora-compatible AsciiDoc, published as a static site to GitHub Pages.
+
+The published site is available at https://bovinemagnet.github.io/drop-merge-docs.
 
 == Source of Truth Policy
 
 IMPORTANT: The Antora source files under `docs/` are the *source of truth*.
-Generated files under `build/wiki` are build artifacts and must not be edited manually.
+Generated files under `build/` are build artifacts and must not be edited manually.
 
 == Repository Structure
 
@@ -18,11 +20,13 @@ Generated files under `build/wiki` are build artifacts and must not be edited ma
 ├── package.json
 ├── docs/
 │   ├── antora.yml
-│   └── modules/ROOT/
-│       ├── nav.adoc
-│       ├── pages/
-│       └── assets/images/
-├── scripts/generate-wiki.mjs
+│   └── modules/
+│       ├── ROOT/
+│       │   ├── nav.adoc
+│       │   ├── pages/
+│       │   ├── partials/
+│       │   └── assets/images/
+│       └── platforms/
 └── .github/workflows/docs.yml
 ----
 
@@ -42,49 +46,24 @@ npm run docs:build
 
 Output is written to `build/site`.
 
-== Generate GitHub Wiki Pages
+== Preview Generated Output
 
-[source,bash]
-----
-npm run wiki:generate
-----
-
-Output is written to `build/wiki`.
-
-== Build Everything
-
-[source,bash]
-----
-npm run docs:all
-----
-
-This builds the Antora site and then generates wiki pages.
-
-== Preview or Inspect Generated Output
-
-* Antora site: open files from `build/site`
-* Wiki pages: inspect `.adoc` files in `build/wiki`
+Open `build/site/index.html` in a browser, or serve the directory over HTTP.
 
 == Add a New Documentation Page
 
-. Add a new page file to `docs/modules/ROOT/pages/`.
+. Add a new page file to the relevant module under `docs/modules/`.
 . Give it a document title (`= Page Title`).
-. Add it to `docs/modules/ROOT/nav.adoc`.
+. Add it to that module's `nav.adoc`.
 . Link to it from related pages using Antora syntax (for example, `xref:my-page.adoc[My Page]`).
-. Run `npm run docs:all` to validate build and wiki generation.
+. Run `npm run docs:build` to validate.
 
-== Wiki Publishing Flow
+Antora fails the build on broken `xref:` links and AsciiDoc syntax errors, so a successful build is the validation step.
 
-The CI workflow builds and uploads artifacts for:
+== Publishing Flow
 
-* Antora site (`build/site`)
-* Generated wiki files (`build/wiki`)
+`.github/workflows/docs.yml` builds the Antora site on every push and pull request to `main`.
+Pull requests build only, to validate the source.
+Pushes to `main` deploy the built site to GitHub Pages.
 
-An optional, commented section in `.github/workflows/docs.yml` shows how to sync `build/wiki` to the repository wiki. Enable it only after configuring permissions and validating your process.
-
-== Antora vs Generated Wiki Docs
-
-* *Antora source docs*: authored and reviewed by documentation contributors (`docs/`)
-* *Generated wiki docs*: produced by `scripts/generate-wiki.mjs` (`build/wiki`)
-
-Do not manually edit generated wiki files. Always update Antora source and regenerate.
+GitHub Pages must be configured with *Source: GitHub Actions* for the deployment to succeed.

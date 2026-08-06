@@ -3,9 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "docs:build": "antora antora-playbook.yml",
-    "wiki:generate": "node scripts/generate-wiki.mjs",
-    "docs:all": "npm run docs:build && npm run wiki:generate"
+    "docs:build": "antora antora-playbook.yml"
   },
   "devDependencies": {
     "@antora/cli": "^3.1.9",
