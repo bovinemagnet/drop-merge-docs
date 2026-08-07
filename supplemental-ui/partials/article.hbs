@@ -1,0 +1,25 @@
+<article class="doc">
+{{#if page.home}}
+<div class="dm-hero">
+  <p class="dm-eyebrow">Player guide</p>
+  <h1>{{{or page.title site.title}}}</h1>
+  <p>Drop pieces into the jar, match them, merge your way up the ladder. Fourteen themed editions, one set of rules.</p>
+  <div class="dm-ladder">
+    <img src="{{{uiRootPath}}}/img/fruits/cherry.png" alt="">
+    <img src="{{{uiRootPath}}}/img/fruits/strawberry.png" alt="">
+    <img src="{{{uiRootPath}}}/img/fruits/grape.png" alt="">
+    <img src="{{{uiRootPath}}}/img/fruits/orange.png" alt="">
+    <img src="{{{uiRootPath}}}/img/fruits/apple.png" alt="">
+    <img src="{{{uiRootPath}}}/img/fruits/peach.png" alt="">
+    <img src="{{{uiRootPath}}}/img/fruits/coconut.png" alt="">
+    <img src="{{{uiRootPath}}}/img/fruits/watermelon.png" alt="">
+  </div>
+</div>
+{{else}}
+{{#with page.title}}
+<h1 class="page">{{{this}}}</h1>
+{{/with}}
+{{/if}}
+{{{page.contents}}}
+{{> pagination}}
+</article>
