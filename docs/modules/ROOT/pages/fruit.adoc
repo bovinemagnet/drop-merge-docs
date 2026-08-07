@@ -8,21 +8,32 @@ This is one edition of *Drop & Merge*. Its pieces are themed to fruit, but it pl
 
 You merge your way up 11 fruits. You can drop only the five smallest; every larger piece is made by merging two of the kind below it.
 
-[cols="1,3,1,2",options="header"]
+[cols="1,2,6,1,2",options="header"]
 |===
-|Tier |Piece |Points |How you get it
+|Tier |Piece |Description |Points |How you get it
 
-|1 |Cherry |1 |Dropped
-|2 |Strawberry |3 |Dropped
-|3 |Grape |6 |Dropped
-|4 |Green Grapes |10 |Dropped
-|5 |Orange |15 |Dropped
-|6 |Apple |21 |Merged
-|7 |Peach |28 |Merged
-|8 |Coconut |36 |Merged
-|9 |Dragon Fruit |45 |Merged
-|10 |Pineapple |55 |Merged
-|11 |Watermelon |66 |Merged — top tier
+|1 |image:pieces/fruit/cherry.png[Cherry,96] |*Cherry* +
+Cherries are stone fruits, so each one has a hard pit surrounded by sweet flesh. |1 |Dropped
+|2 |image:pieces/fruit/strawberry.png[Strawberry,96] |*Strawberry* +
+A strawberry wears its seeds on the outside, with tiny achenes dotted across the surface. |3 |Dropped
+|3 |image:pieces/fruit/grape.png[Grape,96] |*Grape* +
+Grapes grow in clusters on vines that can live and produce fruit for decades. |6 |Dropped
+|4 |image:pieces/fruit/green_grapes.png[Green Grapes,96] |*Green Grapes* +
+Green grapes are often green because they make less of the red and purple anthocyanin pigments. |10 |Dropped
+|5 |image:pieces/fruit/orange.png[Orange,96] |*Orange* +
+Oranges are hesperidia, a type of berry with a leathery rind and juicy segments. |15 |Dropped
+|6 |image:pieces/fruit/apple.png[Apple,96] |*Apple* +
+Apple trees are usually grafted because seeds do not grow into exact copies of the parent fruit. |21 |Merged
+|7 |image:pieces/fruit/peach.png[Peach,96] |*Peach* +
+Peaches are related to almonds, cherries, plums, and apricots. |28 |Merged
+|8 |image:pieces/fruit/coconut.png[Coconut,96] |*Coconut* +
+A coconut is a fibrous drupe, not a true nut in the everyday botanical sense. |36 |Merged
+|9 |image:pieces/fruit/dragon_fruit.png[Dragon Fruit,96] |*Dragon Fruit* +
+Dragon fruit grows on climbing cactus plants rather than on trees. |45 |Merged
+|10 |image:pieces/fruit/pineapple.png[Pineapple,96] |*Pineapple* +
+A pineapple is a multiple fruit, formed from many flowers fused together. |55 |Merged
+|11 |image:pieces/fruit/watermelon.png[Watermelon,96] |*Watermelon* +
+Watermelons are over 90 percent water, which is why they feel so refreshing. |66 |Merged — top tier
 |===
 
 Clearing the two Watermelon pieces awards a 300-point bonus.

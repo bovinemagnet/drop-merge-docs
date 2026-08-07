@@ -8,26 +8,58 @@ This is one edition of *Drop & Merge*. Its pieces are themed to Chinese mytholog
 
 You merge your way up 16 mythical beings. You can drop only the five smallest; every larger piece is made by merging two of the kind below it.
 
-[cols="1,3,1,2",options="header"]
+[cols="1,2,6,1,2",options="header"]
 |===
-|Tier |Piece |Points |How you get it
+|Tier |Piece |Description |Points |How you get it
 
-|1 |Spirit Skull |1 |Dropped
-|2 |Jiangshi |3 |Dropped
-|3 |Lantern Spirit |6 |Dropped
-|4 |Jade Rabbit |10 |Dropped
-|5 |Guardian Lion |15 |Dropped
-|6 |Qilin |21 |Merged
-|7 |White Tiger |28 |Merged
-|8 |Black Tortoise |36 |Merged
-|9 |Vermilion Bird |45 |Merged
-|10 |Azure Dragon |55 |Merged
-|11 |Monkey King |66 |Merged
-|12 |Nine-Tailed Fox |78 |Merged
-|13 |Dragon Turtle |91 |Merged
-|14 |Celestial Dragon |105 |Merged
-|15 |Jade Emperor |120 |Merged
-|16 |Heavenly Sovereign |136 |Merged — top tier
+|1 |image:pieces/china/spirit_skull.png[Spirit Skull,96] |*Spirit Skull* +
+_灵骷髅_ +
+A restless spirit of Chinese ghost stories, still bound to a place, an object or an unfinished duty. |1 |Dropped
+|2 |image:pieces/china/jiangshi.png[Jiangshi,96] |*Jiangshi* +
+_僵尸_ +
+Jiangshi are hopping undead figures from Chinese folklore and popular horror comedy. |3 |Dropped
+|3 |image:pieces/china/lantern_spirit.png[Lantern Spirit,96] |*Lantern Spirit* +
+_灯笼精_ +
+Red lanterns are associated with celebration, luck, and public festivals in Chinese culture. |6 |Dropped
+|4 |image:pieces/china/jade_rabbit.png[Jade Rabbit,96] |*Jade Rabbit* +
+_玉兔_ +
+The Jade Rabbit is associated with the Moon and the legend of Chang’e. |10 |Dropped
+|5 |image:pieces/china/guardian_lion.png[Guardian Lion,96] |*Guardian Lion* +
+_石狮_ +
+Guardian lions are often placed at gates, temples, businesses, and important buildings. |15 |Dropped
+|6 |image:pieces/china/qilin.png[Qilin,96] |*Qilin* +
+_麒麟_ +
+The qilin is an auspicious creature associated with virtue, peace, and wise rule. |21 |Merged
+|7 |image:pieces/china/white_tiger.png[White Tiger,96] |*White Tiger* +
+_白虎_ +
+The White Tiger is one of the Four Symbols and is associated with the west. |28 |Merged
+|8 |image:pieces/china/black_tortoise.png[Black Tortoise,96] |*Black Tortoise* +
+_玄武_ +
+The Black Tortoise is one of the Four Symbols and is associated with the north. |36 |Merged
+|9 |image:pieces/china/vermilion_bird.png[Vermilion Bird,96] |*Vermilion Bird* +
+_朱雀_ +
+The Vermilion Bird is one of the Four Symbols and is associated with the south. |45 |Merged
+|10 |image:pieces/china/azure_dragon.png[Azure Dragon,96] |*Azure Dragon* +
+_青龙_ +
+The Azure Dragon is one of the Four Symbols and is associated with the east. |55 |Merged
+|11 |image:pieces/china/monkey_king.png[Monkey King,96] |*Monkey King* +
+_孙悟空_ +
+Sun Wukong, the Monkey King, is a central hero of Journey to the West. |66 |Merged
+|12 |image:pieces/china/nine_tailed_fox.png[Nine-Tailed Fox,96] |*Nine-Tailed Fox* +
+_九尾狐_ +
+The nine-tailed fox appears in Chinese mythology and later across East Asian folklore. |78 |Merged
+|13 |image:pieces/china/dragon_turtle.png[Dragon Turtle,96] |*Dragon Turtle* +
+_龙龟_ +
+The dragon turtle combines dragon power with tortoise longevity and protection. |91 |Merged
+|14 |image:pieces/china/celestial_dragon.png[Celestial Dragon,96] |*Celestial Dragon* +
+_天龙_ +
+Celestial dragons are associated with heavenly power and divine guardianship. |105 |Merged
+|15 |image:pieces/china/jade_emperor.png[Jade Emperor,96] |*Jade Emperor* +
+_玉皇大帝_ +
+The Jade Emperor is a supreme heavenly ruler in Chinese folk religion and Daoist tradition. |120 |Merged
+|16 |image:pieces/china/heavenly_sovereign.png[Heavenly Sovereign,96] |*Heavenly Sovereign* +
+_天界至尊_ +
+The ruler of the heavens, crowned in imperial robes, clouds, dragons and jade. |136 |Merged — top tier
 |===
 
 Clearing the two Heavenly Sovereign pieces awards a 700-point bonus.

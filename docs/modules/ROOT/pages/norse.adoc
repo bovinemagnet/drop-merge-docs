@@ -8,26 +8,54 @@ This is one edition of *Drop & Merge*. Its pieces are themed to Norse mythology,
 
 You merge your way up 16 Norse beings. You can drop only the five smallest; every larger piece is made by merging two of the kind below it.
 
-[cols="1,3,1,2",options="header"]
+[cols="1,2,6,1,2",options="header"]
 |===
-|Tier |Piece |Points |How you get it
+|Tier |Piece |Description |Points |How you get it
 
-|1 |Bone Skull |1 |Dropped
-|2 |Draugr |3 |Dropped
-|3 |Raven Spirit |6 |Dropped
-|4 |Wolf Cub |10 |Dropped
-|5 |Valkyrie |15 |Dropped
-|6 |Troll |21 |Merged
-|7 |Fenrir |28 |Merged
-|8 |Jormungandr |36 |Merged
-|9 |Frost Giant |45 |Merged
-|10 |Fire Giant |55 |Merged
-|11 |Sleipnir |66 |Merged
-|12 |Nidhogg |78 |Merged
-|13 |Hel |91 |Merged
-|14 |Odin |105 |Merged
-|15 |Thor Stormcaller |120 |Merged
-|16 |Ragnarok Beast |136 |Merged — top tier
+|1 |image:pieces/norse/bone_skull.png[Bone Skull,96] |*Bone Skull* +
+_Beinhauss_ +
+Skulls fit the saga mood because many Norse stories deal with fate, memory, and heroic endings. |1 |Dropped
+|2 |image:pieces/norse/draugr.png[Draugr,96] |*Draugr* +
+A draugr is an undead being from Old Norse literature and later Scandinavian folklore. |3 |Dropped
+|3 |image:pieces/norse/raven_spirit.png[Raven Spirit,96] |*Raven Spirit* +
+_Hrafn_ +
+Ravens are strongly associated with Odin through the famous pair Huginn and Muninn. |6 |Dropped
+|4 |image:pieces/norse/wolf_cub.png[Wolf Cub,96] |*Wolf Cub* +
+_Úlfhvelpr_ +
+Wolves are central to Norse end-times imagery, especially through Fenrir and his monstrous kin. |10 |Dropped
+|5 |image:pieces/norse/valkyrie.png[Valkyrie,96] |*Valkyrie* +
+_Valkyrja_ +
+Valkyries are figures who choose the slain and are closely tied to Odin and heroic battle. |15 |Dropped
+|6 |image:pieces/norse/troll.png[Troll,96] |*Troll* +
+_Trǫll_ +
+Trolls appear across Scandinavian folklore in many forms, from dangerous giants to strange wild beings. |21 |Merged
+|7 |image:pieces/norse/fenrir.png[Fenrir,96] |*Fenrir* +
+Fenrir is the monstrous wolf bound by the gods and destined to break free at Ragnarök. |28 |Merged
+|8 |image:pieces/norse/jormungandr.png[Jormungandr,96] |*Jormungandr* +
+_Jörmungandr_ +
+Jörmungandr is the world serpent, a child of Loki in Norse mythology. |36 |Merged
+|9 |image:pieces/norse/frost_giant.png[Frost Giant,96] |*Frost Giant* +
+_Hrímþurs_ +
+Frost giants belong to the wider family of jötnar, powerful beings often opposed to the gods. |45 |Merged
+|10 |image:pieces/norse/fire_giant.png[Fire Giant,96] |*Fire Giant* +
+_Eldjötunn_ +
+Fire giants are associated with Muspell, the fiery realm in Norse cosmology. |55 |Merged
+|11 |image:pieces/norse/sleipnir.png[Sleipnir,96] |*Sleipnir* +
+Sleipnir is Odin’s eight-legged horse and one of the most recognizable Norse myth animals. |66 |Merged
+|12 |image:pieces/norse/nidhogg.png[Nidhogg,96] |*Nidhogg* +
+_Níðhöggr_ +
+Níðhöggr is a dragon or serpent associated with gnawing at the roots of Yggdrasil. |78 |Merged
+|13 |image:pieces/norse/hel.png[Hel,96] |*Hel* +
+Hel is a figure associated with the realm of the dead in Norse mythology. |91 |Merged
+|14 |image:pieces/norse/odin.png[Odin,96] |*Odin* +
+_Óðinn_ +
+Odin is one of the principal gods in Norse mythology, associated with wisdom, war, poetry, and magic. |105 |Merged
+|15 |image:pieces/norse/thor_stormcaller.png[Thor Stormcaller,96] |*Thor Stormcaller* +
+_Þórr_ +
+Thor is the thunder god and one of the best-known figures in Norse mythology. |120 |Merged
+|16 |image:pieces/norse/ragnarok_beast.png[Ragnarok Beast,96] |*Ragnarok Beast* +
+_Ragnarök dýr_ +
+Wolf and serpent in one, echoing Fenrir and Jörmungandr — the beast of Ragnarök, the Norse cycle of destruction and renewal. |136 |Merged — top tier
 |===
 
 Clearing the two Ragnarok Beast pieces awards a 700-point bonus.

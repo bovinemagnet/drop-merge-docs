@@ -8,26 +8,56 @@ This is one edition of *Drop & Merge*. Its pieces are themed to world mythologie
 
 You merge your way up 16 legendary creatures. You can drop only the five smallest; every larger piece is made by merging two of the kind below it.
 
-[cols="1,3,1,2",options="header"]
+[cols="1,2,6,1,2",options="header"]
 |===
-|Tier |Piece |Points |How you get it
+|Tier |Piece |Description |Points |How you get it
 
-|1 |Skull |1 |Dropped
-|2 |Skeleton |3 |Dropped
-|3 |Goblin |6 |Dropped
-|4 |Kappa |10 |Dropped
-|5 |Harpy |15 |Dropped
-|6 |Kitsune |21 |Merged
-|7 |Minotaur |28 |Merged
-|8 |Cerberus |36 |Merged
-|9 |Fenrir |45 |Merged
-|10 |Hydra |55 |Merged
-|11 |Kraken |66 |Merged
-|12 |Orochi |78 |Merged
-|13 |Dragon Turtle |91 |Merged
-|14 |Titan |105 |Merged
-|15 |Monkey King |120 |Merged
-|16 |Celestial God Beast |136 |Merged — top tier
+|1 |image:pieces/mythology/skull.png[Skull,96] |*Skull* +
+_Calvaria_ +
+Skulls are used across mythologies as a compact symbol of mortality and the spirit world. |1 |Dropped
+|2 |image:pieces/mythology/skeleton.png[Skeleton,96] |*Skeleton* +
+_σκελετός_ +
+The word skeleton traces back through Greek for a dried body or mummy-like frame. |3 |Dropped
+|3 |image:pieces/mythology/goblin.png[Goblin,96] |*Goblin* +
+_Gobelin_ +
+Goblins are mischievous small beings in European folklore and later fantasy stories. |6 |Dropped
+|4 |image:pieces/mythology/kappa.png[Kappa,96] |*Kappa* +
+_河童_ +
+Kappa are Japanese water spirits often said to live in rivers and ponds. |10 |Dropped
+|5 |image:pieces/mythology/harpy.png[Harpy,96] |*Harpy* +
+_Ἅρπυια_ +
+Harpies come from Greek mythology and are often imagined as part woman and part bird. |15 |Dropped
+|6 |image:pieces/mythology/kitsune.png[Kitsune,96] |*Kitsune* +
+_狐_ +
+Kitsune are fox spirits in Japanese folklore, associated with magic, intelligence, and transformation. |21 |Merged
+|7 |image:pieces/mythology/minotaur.png[Minotaur,96] |*Minotaur* +
+_Μινώταυρος_ +
+The Minotaur is the bull-headed figure from the Greek myth of the Labyrinth. |28 |Merged
+|8 |image:pieces/mythology/cerberus.png[Cerberus,96] |*Cerberus* +
+_Κέρβερος_ +
+Cerberus is the multi-headed hound that guards the entrance to the Greek underworld. |36 |Merged
+|9 |image:pieces/mythology/fenrir.png[Fenrir,96] |*Fenrir* +
+Fenrir is the giant wolf of Norse mythology, bound because the gods fear his future power. |45 |Merged
+|10 |image:pieces/mythology/hydra.png[Hydra,96] |*Hydra* +
+_Ὕδρα_ +
+The Hydra is a many-headed serpent from Greek mythology. |55 |Merged
+|11 |image:pieces/mythology/kraken.png[Kraken,96] |*Kraken* +
+The Kraken is a legendary sea monster from northern European sailor lore. |66 |Merged
+|12 |image:pieces/mythology/orochi.png[Orochi,96] |*Orochi* +
+_八岐大蛇_ +
+Yamata no Orochi is an enormous eight-headed serpent from Japanese mythology. |78 |Merged
+|13 |image:pieces/mythology/dragon_turtle.png[Dragon Turtle,96] |*Dragon Turtle* +
+_龙龟_ +
+The dragon turtle combines dragon power with tortoise longevity and protection. |91 |Merged
+|14 |image:pieces/mythology/titan.png[Titan,96] |*Titan* +
+_Τιτάν_ +
+The Titans are primordial divine beings from Greek mythology before the Olympian gods. |105 |Merged
+|15 |image:pieces/mythology/monkey_king.png[Monkey King,96] |*Monkey King* +
+_孙悟空_ +
+Sun Wukong, the Monkey King, is a central hero of Journey to the West. |120 |Merged
+|16 |image:pieces/mythology/celestial_god_beast.png[Celestial God Beast,96] |*Celestial God Beast* +
+_天界神獣_ +
+A custom finale can combine dragon, lion, cloud, flame, and divine motifs from many traditions. |136 |Merged — top tier
 |===
 
 Clearing the two Celestial God Beast pieces awards a 700-point bonus.

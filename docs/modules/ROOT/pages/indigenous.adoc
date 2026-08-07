@@ -8,25 +8,43 @@ This is one edition of *Drop & Merge*. Its pieces are themed to Indigenous North
 
 You merge your way up 15 spirit creatures. You can drop only the five smallest; every larger piece is made by merging two of the kind below it.
 
-[cols="1,3,1,2",options="header"]
+[cols="1,2,6,1,2",options="header"]
 |===
-|Tier |Piece |Points |How you get it
+|Tier |Piece |Description |Points |How you get it
 
-|1 |Spirit Skull |1 |Dropped
-|2 |Prairie Rabbit |3 |Dropped
-|3 |Coyote Spirit |6 |Dropped
-|4 |Owl Spirit |10 |Dropped
-|5 |Thunderbird Hatchling |15 |Dropped
-|6 |Horned Serpent |21 |Merged
-|7 |Wendigo |28 |Merged
-|8 |Buffalo Guardian |36 |Merged
-|9 |Thunderbird |45 |Merged
-|10 |Water Panther |55 |Merged
-|11 |Stone Giant |66 |Merged
-|12 |Star Walker |78 |Merged
-|13 |Great Serpent |91 |Merged
-|14 |Sky Guardian |105 |Merged
-|15 |World Thunderbird |120 |Merged — top tier
+|1 |image:pieces/indigenous/spirit_skull.png[Spirit Skull,96] |*Spirit Skull* +
+Indigenous North American traditions are many distinct living cultures, so a single native name would be misleading here. |1 |Dropped
+|2 |image:pieces/indigenous/prairie_rabbit.png[Prairie Rabbit,96] |*Prairie Rabbit* +
+Rabbit figures appear in many storytelling traditions, but meanings and names vary widely. |3 |Dropped
+|3 |image:pieces/indigenous/coyote_spirit.png[Coyote Spirit,96] |*Coyote Spirit* +
+Coyote appears in many Indigenous stories, often as a complicated trickster or transformer figure. |6 |Dropped
+|4 |image:pieces/indigenous/owl_spirit.png[Owl Spirit,96] |*Owl Spirit* +
+Owls can carry very different meanings across Indigenous communities and should not be treated as one symbol. |10 |Dropped
+|5 |image:pieces/indigenous/thunderbird_hatchling.png[Thunderbird Hatchling,96] |*Thunderbird Hatchling* +
+Thunderbird beings are important in multiple Indigenous traditions, with names and meanings that vary. |15 |Dropped
+|6 |image:pieces/indigenous/horned_serpent.png[Horned Serpent,96] |*Horned Serpent* +
+Horned serpent figures appear in several Indigenous traditions, especially around water and powerful places. |21 |Merged
+|7 |image:pieces/indigenous/wendigo.png[Wendigo,96] |*Wendigo* +
+_Wiindigoo_ +
+Wiindigoo is associated with Anishinaabe and other Algonquian-language traditions. |28 |Merged
+|8 |image:pieces/indigenous/buffalo_guardian.png[Buffalo Guardian,96] |*Buffalo Guardian* +
+Bison are deeply important to many Plains Nations, with cultural meanings that should be handled carefully. |36 |Merged
+|9 |image:pieces/indigenous/thunderbird.png[Thunderbird,96] |*Thunderbird* +
+_Animikii_ +
+Animikii is an Anishinaabe word often connected with thunderbird or thunder-being concepts. |45 |Merged
+|10 |image:pieces/indigenous/water_panther.png[Water Panther,96] |*Water Panther* +
+_Mishipeshu_ +
+Mishipeshu is often discussed as an underwater panther or powerful water being in Anishinaabe contexts. |55 |Merged
+|11 |image:pieces/indigenous/stone_giant.png[Stone Giant,96] |*Stone Giant* +
+Giant and stone-being stories appear in different Indigenous traditions with local names and meanings. |66 |Merged
+|12 |image:pieces/indigenous/star_walker.png[Star Walker,96] |*Star Walker* +
+A night-sky creature invented for this edition; star stories differ from Nation to Nation, so no single tradition is claimed here. |78 |Merged
+|13 |image:pieces/indigenous/great_serpent.png[Great Serpent,96] |*Great Serpent* +
+Large serpent beings appear in many story worlds, but local names and meanings matter. |91 |Merged
+|14 |image:pieces/indigenous/sky_guardian.png[Sky Guardian,96] |*Sky Guardian* +
+The guardian role is expressed through scale and weather rather than weapons or regalia. |105 |Merged
+|15 |image:pieces/indigenous/world_thunderbird.png[World Thunderbird,96] |*World Thunderbird* +
+A storm creature invented for this edition, with vast wings, lightning and a body of cloud. |120 |Merged — top tier
 |===
 
 Clearing the two World Thunderbird pieces awards a 700-point bonus.

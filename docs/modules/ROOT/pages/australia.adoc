@@ -8,26 +8,42 @@ This is one edition of *Drop & Merge*. Its pieces are themed to Australian Abori
 
 You merge your way up 16 Dreamtime spirits. You can drop only the five smallest; every larger piece is made by merging two of the kind below it.
 
-[cols="1,3,1,2",options="header"]
+[cols="1,2,6,1,2",options="header"]
 |===
-|Tier |Piece |Points |How you get it
+|Tier |Piece |Description |Points |How you get it
 
-|1 |Bone Wisp |1 |Dropped
-|2 |Gecko Spirit |3 |Dropped
-|3 |Bush Hopper |6 |Dropped
-|4 |Glow Possum |10 |Dropped
-|5 |Dream Owl |15 |Dropped
-|6 |Quinkin |21 |Merged
-|7 |Spirit Kangaroo |28 |Merged
-|8 |Yowie |36 |Merged
-|9 |Crocodile Guardian |45 |Merged
-|10 |Bunyip |55 |Merged
-|11 |Thunder Beast |66 |Merged
-|12 |Sand Titan |78 |Merged
-|13 |Rainbow Serpent |91 |Merged
-|14 |Sky Dreamer |105 |Merged
-|15 |Star Serpent |120 |Merged
-|16 |Cosmic Rainbow Serpent |136 |Merged — top tier
+|1 |image:pieces/australia/bone_wisp.png[Bone Wisp,96] |*Bone Wisp* +
+A drifting wisp of spirit light, invented for this edition. |1 |Dropped
+|2 |image:pieces/australia/gecko_spirit.png[Gecko Spirit,96] |*Gecko Spirit* +
+A small gecko in spirit form, one of this edition's own outback creatures. |3 |Dropped
+|3 |image:pieces/australia/bush_hopper.png[Bush Hopper,96] |*Bush Hopper* +
+A hopping creature of the scrub, invented for this edition. |6 |Dropped
+|4 |image:pieces/australia/glow_possum.png[Glow Possum,96] |*Glow Possum* +
+A possum that glows in the dark, one of the outback fantasy creatures of this edition. |10 |Dropped
+|5 |image:pieces/australia/dream_owl.png[Dream Owl,96] |*Dream Owl* +
+An owl of night and dream, created for this edition. |15 |Dropped
+|6 |image:pieces/australia/quinkin.png[Quinkin,96] |*Quinkin* +
+Spirit figures known from the rock art and stories of Cape York, in far north Queensland. |21 |Merged
+|7 |image:pieces/australia/spirit_kangaroo.png[Spirit Kangaroo,96] |*Spirit Kangaroo* +
+A kangaroo in spirit form, one of this edition's own creations. |28 |Merged
+|8 |image:pieces/australia/yowie.png[Yowie,96] |*Yowie* +
+A tall, hairy figure of Australian folklore, said to move unseen through the bush. |36 |Merged
+|9 |image:pieces/australia/crocodile_guardian.png[Crocodile Guardian,96] |*Crocodile Guardian* +
+A saltwater crocodile cast as a guardian of the northern rivers, invented for this edition. |45 |Merged
+|10 |image:pieces/australia/bunyip.png[Bunyip,96] |*Bunyip* +
+A water creature of Australian folklore, said to lurk in swamps, creeks and billabongs. |55 |Merged
+|11 |image:pieces/australia/thunder_beast.png[Thunder Beast,96] |*Thunder Beast* +
+A storm creature of this edition's own making, moving with the sound of thunder. |66 |Merged
+|12 |image:pieces/australia/sand_titan.png[Sand Titan,96] |*Sand Titan* +
+A giant raised from the red sand of the desert, created for this edition. |78 |Merged
+|13 |image:pieces/australia/rainbow_serpent.png[Rainbow Serpent,96] |*Rainbow Serpent* +
+A great serpent associated with water and creation in the traditions of many Aboriginal nations; the names and stories differ from place to place. |91 |Merged
+|14 |image:pieces/australia/sky_dreamer.png[Sky Dreamer,96] |*Sky Dreamer* +
+A sky spirit invented for this edition, drifting between night and dream. |105 |Merged
+|15 |image:pieces/australia/star_serpent.png[Star Serpent,96] |*Star Serpent* +
+A serpent made of stars, an invention of this edition. |120 |Merged
+|16 |image:pieces/australia/cosmic_rainbow_serpent.png[Cosmic Rainbow Serpent,96] |*Cosmic Rainbow Serpent* +
+The serpent at cosmic scale and the top of this edition's ladder — a fantasy creation rather than any one traditional account. |136 |Merged — top tier
 |===
 
 Clearing the two Cosmic Rainbow Serpent pieces awards a 700-point bonus.

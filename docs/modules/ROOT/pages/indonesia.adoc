@@ -8,26 +8,52 @@ This is one edition of *Drop & Merge*. Its pieces are themed to Indonesian islan
 
 You merge your way up 16 island spirits. You can drop only the five smallest; every larger piece is made by merging two of the kind below it.
 
-[cols="1,3,1,2",options="header"]
+[cols="1,2,6,1,2",options="header"]
 |===
-|Tier |Piece |Points |How you get it
+|Tier |Piece |Description |Points |How you get it
 
-|1 |Skull Spirit |1 |Dropped
-|2 |Tokek |3 |Dropped
-|3 |Jungle Imp |6 |Dropped
-|4 |Tuyul |10 |Dropped
-|5 |Bamboo Ghost |15 |Dropped
-|6 |Mask Spirit |21 |Merged
-|7 |Garuda Cub |28 |Merged
-|8 |Barong |36 |Merged
-|9 |Rangda |45 |Merged
-|10 |Hanoman |55 |Merged
-|11 |Naga Basuki |66 |Merged
-|12 |Temple Guardian |78 |Merged
-|13 |Volcano Beast |91 |Merged
-|14 |Sea Dragon |105 |Merged
-|15 |Island Titan |120 |Merged
-|16 |Cosmic Garuda |136 |Merged — top tier
+|1 |image:pieces/indonesia/skull_spirit.png[Skull Spirit,96] |*Skull Spirit* +
+_Roh Tengkorak_ +
+A restless skull spirit, the smallest of this edition's island hauntings. |1 |Dropped
+|2 |image:pieces/indonesia/tokek.png[Tokek,96] |*Tokek* +
+The tokay gecko, the loud house lizard whose call is counted for luck across the archipelago. |3 |Dropped
+|3 |image:pieces/indonesia/jungle_imp.png[Jungle Imp,96] |*Jungle Imp* +
+_Imp Rimba_ +
+A small mischievous imp of the rainforest, invented for this edition. |6 |Dropped
+|4 |image:pieces/indonesia/tuyul.png[Tuyul,96] |*Tuyul* +
+A child-like spirit of Javanese folklore, said to be kept by a master and sent out to steal small sums of money. |10 |Dropped
+|5 |image:pieces/indonesia/bamboo_ghost.png[Bamboo Ghost,96] |*Bamboo Ghost* +
+_Hantu Bambu_ +
+A ghost of the bamboo groves, heard in the creak and rattle of the stems. |15 |Dropped
+|6 |image:pieces/indonesia/mask_spirit.png[Mask Spirit,96] |*Mask Spirit* +
+_Roh Topeng_ +
+The spirit of a carved topeng mask, worn by dancers in Javanese and Balinese drama. |21 |Merged
+|7 |image:pieces/indonesia/garuda_cub.png[Garuda Cub,96] |*Garuda Cub* +
+_Anak Garuda_ +
+A young Garuda — the great eagle of Hindu myth and the national emblem of Indonesia. |28 |Merged
+|8 |image:pieces/indonesia/barong.png[Barong,96] |*Barong* +
+The lion-like guardian of Balinese tradition, whose dance sets him against Rangda in a contest between order and chaos. |36 |Merged
+|9 |image:pieces/indonesia/rangda.png[Rangda,96] |*Rangda* +
+The demon queen of Balinese drama, Barong's opponent and the face of destructive power. |45 |Merged
+|10 |image:pieces/indonesia/hanoman.png[Hanoman,96] |*Hanoman* +
+The white monkey general of the Ramayana, celebrated in Indonesian dance and shadow puppetry for his strength and loyalty. |55 |Merged
+|11 |image:pieces/indonesia/naga_basuki.png[Naga Basuki,96] |*Naga Basuki* +
+A great serpent of Javanese and Balinese tradition, coiled about the world to hold it steady. |66 |Merged
+|12 |image:pieces/indonesia/temple_guardian.png[Temple Guardian,96] |*Temple Guardian* +
+_Penjaga Candi_ +
+A stone guardian of the kind that flanks temple gateways across Java and Bali. |78 |Merged
+|13 |image:pieces/indonesia/volcano_beast.png[Volcano Beast,96] |*Volcano Beast* +
+_Raksasa Gunung Api_ +
+A giant of fire and ash from the archipelago's volcanoes, created for this edition. |91 |Merged
+|14 |image:pieces/indonesia/sea_dragon.png[Sea Dragon,96] |*Sea Dragon* +
+_Naga Laut_ +
+A dragon of the open sea, coiling through the water between the islands. |105 |Merged
+|15 |image:pieces/indonesia/island_titan.png[Island Titan,96] |*Island Titan* +
+_Raksasa Pulau_ +
+A giant so vast that an island rides on its back. |120 |Merged
+|16 |image:pieces/indonesia/cosmic_garuda.png[Cosmic Garuda,96] |*Cosmic Garuda* +
+_Garuda Kosmis_ +
+Garuda at cosmic scale, wings spanning the sky — the top of this edition's ladder. |136 |Merged — top tier
 |===
 
 Clearing the two Cosmic Garuda pieces awards a 700-point bonus.

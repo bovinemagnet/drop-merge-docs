@@ -4,27 +4,27 @@
 
 Each edition's page lists its full ladder and explains how to play.
 
-[cols="2,3,1",options="header"]
+[cols="1,2,3,1",options="header"]
 |===
-|Edition |Theme |Pieces
+|Top piece |Edition |Theme |Pieces
 
-|xref:fruit.adoc[Drop & Merge — Fruit] |Cherries to watermelons — the classic fruit merge |11
-|xref:animals.adoc[Drop & Merge — Animals] |The nursery rhyme "There Was an Old Lady Who Swallowed a Fly" |9
-|xref:japan.adoc[Drop & Merge — Japan] |Japanese yokai and folklore spirits |16
-|xref:china.adoc[Drop & Merge — China] |Chinese myth, from wandering spirits to celestial beasts |16
-|xref:mythology.adoc[Drop & Merge — Mythology] |Legendary creatures gathered from world mythologies |16
-|xref:norse.adoc[Drop & Merge — Norse] |Norse myth, from draugr to the beast of Ragnarok |16
-|xref:greece.adoc[Drop & Merge — Greece] |Classical Greek monsters and Olympian gods |16
-|xref:indigenous.adoc[Drop & Merge — Indigenous] |North American Indigenous spirit creatures |15
-|xref:south-asia.adoc[Drop & Merge — South Asia] |South Asian deities and mythic beings |16
-|xref:zodiac.adoc[Drop & Merge — Zodiac] |The twelve animals of the Chinese zodiac |12
-|xref:indonesia.adoc[Drop & Merge — Indonesia] |Indonesian island spirits |16
-|xref:australia.adoc[Drop & Merge — Australia] |Australian Dreamtime spirit creatures |16
-|xref:korea.adoc[Drop & Merge — Korea] |Korean folklore spirits |16
-|xref:kpop.adoc[Drop & Merge — K-Pop] |A rise through the world of K-pop stardom |16
-|Drop & Merge — Bee Colony Merge |A bee colony, from tiny workers to the queen |9
-|Drop & Merge — Cheeky Rabbit Merge |Mischievous rabbits in a series of scrapes |16
-|Drop & Merge — Rabbit Mischief Merge |More rabbit mischief up a longer ladder |16
+|image:pieces/fruit/watermelon.png[Watermelon,56] |xref:fruit.adoc[Drop & Merge — Fruit] |Cherries to watermelons — the classic fruit merge |11
+|image:pieces/animals/old_lady.png[Old Lady,56] |xref:animals.adoc[Drop & Merge — Animals] |The nursery rhyme "There Was an Old Lady Who Swallowed a Fly" |9
+|image:pieces/japan/yokai_emperor.png[Yokai Emperor,56] |xref:japan.adoc[Drop & Merge — Japan] |Japanese yokai and folklore spirits |16
+|image:pieces/china/heavenly_sovereign.png[Heavenly Sovereign,56] |xref:china.adoc[Drop & Merge — China] |Chinese myth, from wandering spirits to celestial beasts |16
+|image:pieces/mythology/celestial_god_beast.png[Celestial God Beast,56] |xref:mythology.adoc[Drop & Merge — Mythology] |Legendary creatures gathered from world mythologies |16
+|image:pieces/norse/ragnarok_beast.png[Ragnarok Beast,56] |xref:norse.adoc[Drop & Merge — Norse] |Norse myth, from draugr to the beast of Ragnarok |16
+|image:pieces/greece/zeus_ascended.png[Zeus Ascended,56] |xref:greece.adoc[Drop & Merge — Greece] |Classical Greek monsters and Olympian gods |16
+|image:pieces/indigenous/world_thunderbird.png[World Thunderbird,56] |xref:indigenous.adoc[Drop & Merge — Indigenous] |North American Indigenous spirit creatures |15
+|image:pieces/south-asia/world_turtle_avatar.png[World Turtle Avatar,56] |xref:south-asia.adoc[Drop & Merge — South Asia] |South Asian deities and mythic beings |16
+|image:pieces/zodiac/pig.png[Pig,56] |xref:zodiac.adoc[Drop & Merge — Zodiac] |The twelve animals of the Chinese zodiac |12
+|image:pieces/indonesia/cosmic_garuda.png[Cosmic Garuda,56] |xref:indonesia.adoc[Drop & Merge — Indonesia] |Indonesian island spirits |16
+|image:pieces/australia/cosmic_rainbow_serpent.png[Cosmic Rainbow Serpent,56] |xref:australia.adoc[Drop & Merge — Australia] |Australian Dreamtime spirit creatures |16
+|image:pieces/korea/eternal_sky_dragon.png[Eternal Sky Dragon,56] |xref:korea.adoc[Drop & Merge — Korea] |Korean folklore spirits |16
+|image:pieces/kpop/cosmic_idol_god.png[Cosmic Idol God,56] |xref:kpop.adoc[Drop & Merge — K-Pop] |A rise through the world of K-pop stardom |16
+|image:pieces/bee-colony/starhoney.png[Starhoney,56] |Drop & Merge — Bee Colony Merge |A bee colony, from tiny workers to the queen |9
+|image:pieces/cheeky-rabbit/wisp_o_whiskers.png[Wisp O'Whiskers,56] |Drop & Merge — Cheeky Rabbit Merge |Mischievous rabbits in a series of scrapes |16
+|image:pieces/rabbit-mischief/chaos_bunny_overlord.png[Chaos Bunny Overlord,56] |Drop & Merge — Rabbit Mischief Merge |More rabbit mischief up a longer ladder |16
 |===
 
 New to the game? Start with xref:gameplay.adoc[How to play].

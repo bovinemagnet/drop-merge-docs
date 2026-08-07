@@ -8,26 +8,58 @@ This is one edition of *Drop & Merge*. Its pieces are themed to Greek mythology,
 
 You merge your way up 16 Greek myths. You can drop only the five smallest; every larger piece is made by merging two of the kind below it.
 
-[cols="1,3,1,2",options="header"]
+[cols="1,2,6,1,2",options="header"]
 |===
-|Tier |Piece |Points |How you get it
+|Tier |Piece |Description |Points |How you get it
 
-|1 |Skull |1 |Dropped
-|2 |Skeleton Warrior |3 |Dropped
-|3 |Harpy |6 |Dropped
-|4 |Satyr |10 |Dropped
-|5 |Minotaur |15 |Dropped
-|6 |Cyclops |21 |Merged
-|7 |Cerberus |28 |Merged
-|8 |Medusa |36 |Merged
-|9 |Pegasus |45 |Merged
-|10 |Hydra |55 |Merged
-|11 |Chimera |66 |Merged
-|12 |Kraken |78 |Merged
-|13 |Titan |91 |Merged
-|14 |Prometheus |105 |Merged
-|15 |Hades |120 |Merged
-|16 |Zeus Ascended |136 |Merged — top tier
+|1 |image:pieces/greece/skull.png[Skull,96] |*Skull* +
+_κρανίον_ +
+Greek myths often place death, memory, and the underworld close to heroic adventure. |1 |Dropped
+|2 |image:pieces/greece/skeleton_warrior.png[Skeleton Warrior,96] |*Skeleton Warrior* +
+_σκελετὸς πολεμιστής_ +
+Animated bones in a hoplite helmet, carrying the sword and round shield of a Greek champion. |3 |Dropped
+|3 |image:pieces/greece/harpy.png[Harpy,96] |*Harpy* +
+_Ἅρπυια_ +
+Harpies are Greek myth figures often imagined as part woman and part bird. |6 |Dropped
+|4 |image:pieces/greece/satyr.png[Satyr,96] |*Satyr* +
+_Σάτυρος_ +
+Satyrs are rustic Greek myth beings often linked with music, revelry, and wild places. |10 |Dropped
+|5 |image:pieces/greece/minotaur.png[Minotaur,96] |*Minotaur* +
+_Μινώταυρος_ +
+The Minotaur is the bull-headed figure from the Greek story of the Labyrinth. |15 |Dropped
+|6 |image:pieces/greece/cyclops.png[Cyclops,96] |*Cyclops* +
+_Κύκλωψ_ +
+Cyclopes are one-eyed giants in Greek mythology, with different versions across stories. |21 |Merged
+|7 |image:pieces/greece/cerberus.png[Cerberus,96] |*Cerberus* +
+_Κέρβερος_ +
+Cerberus is the multi-headed hound that guards the entrance to the underworld. |28 |Merged
+|8 |image:pieces/greece/medusa.png[Medusa,96] |*Medusa* +
+_Μέδουσα_ +
+Medusa is the most famous of the Gorgons and is known for her snake hair. |36 |Merged
+|9 |image:pieces/greece/pegasus.png[Pegasus,96] |*Pegasus* +
+_Πήγασος_ +
+Pegasus is the winged horse of Greek mythology and one of its most recognizable creatures. |45 |Merged
+|10 |image:pieces/greece/hydra.png[Hydra,96] |*Hydra* +
+_Ὕδρα_ +
+The Lernaean Hydra is a many-headed serpent defeated by Heracles. |55 |Merged
+|11 |image:pieces/greece/chimera.png[Chimera,96] |*Chimera* +
+_Χίμαιρα_ +
+The Chimera is a hybrid monster often described with lion, goat, and serpent features. |66 |Merged
+|12 |image:pieces/greece/kraken.png[Kraken,96] |*Kraken* +
+_Κράκεν_ +
+The Kraken is not originally Greek, but sea monsters fit naturally beside Greek ocean myth imagery. |78 |Merged
+|13 |image:pieces/greece/titan.png[Titan,96] |*Titan* +
+_Τιτάν_ +
+The Titans are primordial divine beings who precede the Olympian gods in Greek myth. |91 |Merged
+|14 |image:pieces/greece/prometheus.png[Prometheus,96] |*Prometheus* +
+_Προμηθεύς_ +
+Prometheus is a Titan famous for stealing fire and giving it to humanity. |105 |Merged
+|15 |image:pieces/greece/hades.png[Hades,96] |*Hades* +
+_ᾍδης_ +
+Hades is the Greek god associated with the underworld and the realm of the dead. |120 |Merged
+|16 |image:pieces/greece/zeus_ascended.png[Zeus Ascended,96] |*Zeus Ascended* +
+_Ζεύς_ +
+Zeus is the sky and thunder god who rules the Olympian gods in Greek mythology. |136 |Merged — top tier
 |===
 
 Clearing the two Zeus Ascended pieces awards a 700-point bonus.

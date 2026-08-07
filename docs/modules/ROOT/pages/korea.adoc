@@ -8,26 +8,58 @@ This is one edition of *Drop & Merge*. Its pieces are themed to Korean folklore,
 
 You merge your way up 16 folklore spirits. You can drop only the five smallest; every larger piece is made by merging two of the kind below it.
 
-[cols="1,3,1,2",options="header"]
+[cols="1,2,6,1,2",options="header"]
 |===
-|Tier |Piece |Points |How you get it
+|Tier |Piece |Description |Points |How you get it
 
-|1 |Spirit Ember |1 |Dropped
-|2 |Mountain Toad |3 |Dropped
-|3 |Goblin Flame |6 |Dropped
-|4 |Dokkaebi |10 |Dropped
-|5 |Moon Rabbit |15 |Dropped
-|6 |Ghost Tiger |21 |Merged
-|7 |Gumiho |28 |Merged
-|8 |Bulgasari |36 |Merged
-|9 |Samjoko |45 |Merged
-|10 |Imugi |55 |Merged
-|11 |Grave Guardian |66 |Merged
-|12 |Celestial Beast |78 |Merged
-|13 |Korean Dragon |91 |Merged
-|14 |Heavenly Tiger |105 |Merged
-|15 |Sky Emperor Beast |120 |Merged
-|16 |Eternal Sky Dragon |136 |Merged — top tier
+|1 |image:pieces/korea/spirit_ember.png[Spirit Ember,96] |*Spirit Ember* +
+_도깨비불_ +
+A wandering ember of ghostly flame — dokkaebi-bul, the goblin fire seen at night. |1 |Dropped
+|2 |image:pieces/korea/mountain_toad.png[Mountain Toad,96] |*Mountain Toad* +
+_산 두꺼비_ +
+A toad of the mountain streams, a creature of good fortune in Korean tales. |3 |Dropped
+|3 |image:pieces/korea/goblin_flame.png[Goblin Flame,96] |*Goblin Flame* +
+_도깨비불_ +
+Goblin fire burning brighter, the flame that announces a dokkaebi. |6 |Dropped
+|4 |image:pieces/korea/dokkaebi.png[Dokkaebi,96] |*Dokkaebi* +
+_도깨비_ +
+A Korean goblin: a mischievous spirit fond of games, riddles and tricks, and often carrying a magic club. |10 |Dropped
+|5 |image:pieces/korea/moon_rabbit.png[Moon Rabbit,96] |*Moon Rabbit* +
+_달토끼_ +
+The rabbit seen in the face of the moon, pounding rice cakes with a mortar and pestle. |15 |Dropped
+|6 |image:pieces/korea/ghost_tiger.png[Ghost Tiger,96] |*Ghost Tiger* +
+_호랑이 귀신_ +
+A tiger in spirit form; the tiger is the great figure of Korean folklore, by turns fearsome and foolish. |21 |Merged
+|7 |image:pieces/korea/gumiho.png[Gumiho,96] |*Gumiho* +
+_구미호_ +
+A nine-tailed fox of Korean legend, able to take human form. |28 |Merged
+|8 |image:pieces/korea/bulgasari.png[Bulgasari,96] |*Bulgasari* +
+_불가사리_ +
+A beast of Korean legend said to devour iron and grow with every bite. |36 |Merged
+|9 |image:pieces/korea/samjoko.png[Samjoko,96] |*Samjoko* +
+_삼족오_ +
+The three-legged crow of the sun, an emblem found in Goguryeo-era tomb painting. |45 |Merged
+|10 |image:pieces/korea/imugi.png[Imugi,96] |*Imugi* +
+_이무기_ +
+A great serpent that must wait out long centuries before it can rise as a dragon. |55 |Merged
+|11 |image:pieces/korea/grave_guardian.png[Grave Guardian,96] |*Grave Guardian* +
+_무덤 수호자_ +
+A guardian figure of the kind set to watch over royal tombs. |66 |Merged
+|12 |image:pieces/korea/celestial_beast.png[Celestial Beast,96] |*Celestial Beast* +
+_천상수_ +
+A beast of the heavens, one of this edition's own creations. |78 |Merged
+|13 |image:pieces/korea/korean_dragon.png[Korean Dragon,96] |*Korean Dragon* +
+_용_ +
+The yong: a whiskered dragon of rivers, rain and cloud, bearing the wish-granting yeouiju pearl. |91 |Merged
+|14 |image:pieces/korea/heavenly_tiger.png[Heavenly Tiger,96] |*Heavenly Tiger* +
+_천호_ +
+A tiger raised to celestial rank, created for this edition. |105 |Merged
+|15 |image:pieces/korea/sky_emperor_beast.png[Sky Emperor Beast,96] |*Sky Emperor Beast* +
+_하늘 제왕수_ +
+The ruler of the sky in beast form, created for this edition. |120 |Merged
+|16 |image:pieces/korea/eternal_sky_dragon.png[Eternal Sky Dragon,96] |*Eternal Sky Dragon* +
+_영원한 하늘 용_ +
+A dragon of endless sky — the top of this edition's ladder. |136 |Merged — top tier
 |===
 
 Clearing the two Eternal Sky Dragon pieces awards a 700-point bonus.
