@@ -1,0 +1,13 @@
+    {{#with site.keys.googleAnalytics}}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{this}}"></script>
+    <script>function gtag(){dataLayer.push(arguments)};window.dataLayer=window.dataLayer||[];gtag('js',new Date());gtag('config','{{this}}')</script>
+    {{/with}}
+    <script>
+      /* Set the theme before first paint so the page never flashes the wrong one. */
+      ;(function () {
+        var stored
+        try { stored = localStorage.getItem('dm-theme') } catch (e) {}
+        var theme = stored || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')
+        document.documentElement.setAttribute('data-theme', theme)
+      })()
+    </script>

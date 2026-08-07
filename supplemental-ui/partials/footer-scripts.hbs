@@ -1,0 +1,17 @@
+<script id="site-script" src="{{{uiRootPath}}}/js/site.js" data-ui-root-path="{{{uiRootPath}}}"></script>
+<script async src="{{{uiRootPath}}}/js/vendor/highlight.js"></script>
+{{#if env.SITE_SEARCH_PROVIDER}}
+{{> search-scripts}}
+{{/if}}
+<script>
+  ;(function () {
+    var button = document.querySelector('.theme-toggle')
+    if (!button) return
+    button.addEventListener('click', function () {
+      var next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark'
+      document.documentElement.setAttribute('data-theme', next)
+      button.setAttribute('aria-label', next === 'dark' ? 'Switch to light theme' : 'Switch to dark theme')
+      try { localStorage.setItem('dm-theme', next) } catch (e) {}
+    })
+  })()
+</script>
