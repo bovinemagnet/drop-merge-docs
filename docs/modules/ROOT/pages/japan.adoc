@@ -8,26 +8,58 @@ This is one edition of *Drop & Merge*. Its pieces are themed to Japanese folklor
 
 You merge your way up 16 yokai. You can drop only the five smallest; every larger piece is made by merging two of the kind below it.
 
-[cols="1,3,1,2",options="header"]
+[cols="1,2,6,1,2",options="header"]
 |===
-|Tier |Piece |Points |How you get it
+|Tier |Piece |Description |Points |How you get it
 
-|1 |Haunted Skull |1 |Dropped
-|2 |Kodama |3 |Dropped
-|3 |Slime Spirit |6 |Dropped
-|4 |Kappa |10 |Dropped
-|5 |Tanuki |15 |Dropped
-|6 |Kitsune |21 |Merged
-|7 |Oni |28 |Merged
-|8 |Tengu |36 |Merged
-|9 |Nekomata |45 |Merged
-|10 |Rokurokubi |55 |Merged
-|11 |Jorogumo |66 |Merged
-|12 |Yuki-onna |78 |Merged
-|13 |Orochi |91 |Merged
-|14 |Raijin |105 |Merged
-|15 |Amaterasu Avatar |120 |Merged
-|16 |Yokai Emperor |136 |Merged — top tier
+|1 |image:pieces/japan/haunted_skull.png[Haunted Skull,96] |*Haunted Skull* +
+_髑髏 (しゃれこうべ)_ +
+Skull imagery appears in many ghost stories as a reminder of restless spirits and unfinished business. |1 |Dropped
+|2 |image:pieces/japan/kodama.png[Kodama,96] |*Kodama* +
+_木霊 (こだま)_ +
+Kodama are tree spirits, especially associated with old or sacred trees. |3 |Dropped
+|3 |image:pieces/japan/slime_spirit.png[Slime Spirit,96] |*Slime Spirit* +
+_粘液の精 (ねんえきのせい)_ +
+Slime spirits are game-friendly inventions inspired by the many shapeshifting forms in yokai stories. |6 |Dropped
+|4 |image:pieces/japan/kappa.png[Kappa,96] |*Kappa* +
+_河童 (かっぱ)_ +
+Kappa are water yokai often said to live in rivers and ponds. |10 |Dropped
+|5 |image:pieces/japan/tanuki.png[Tanuki,96] |*Tanuki* +
+_狸 (たぬき)_ +
+Tanuki are famous shape-shifters in Japanese folklore. |15 |Dropped
+|6 |image:pieces/japan/kitsune.png[Kitsune,96] |*Kitsune* +
+_狐 (きつね)_ +
+Kitsune are fox spirits associated with intelligence, magic, and transformation. |21 |Merged
+|7 |image:pieces/japan/oni.png[Oni,96] |*Oni* +
+_鬼 (おに)_ +
+Oni are powerful ogre-like beings often shown with horns and fierce expressions. |28 |Merged
+|8 |image:pieces/japan/tengu.png[Tengu,96] |*Tengu* +
+_天狗 (てんぐ)_ +
+Tengu are mountain beings often associated with martial skill and supernatural pride. |36 |Merged
+|9 |image:pieces/japan/nekomata.png[Nekomata,96] |*Nekomata* +
+_猫又 (ねこまた)_ +
+Nekomata are supernatural cats often shown with two tails. |45 |Merged
+|10 |image:pieces/japan/rokurokubi.png[Rokurokubi,96] |*Rokurokubi* +
+_ろくろ首 (ろくろくび)_ +
+Rokurokubi are people whose necks stretch unnaturally long in ghostly tales. |55 |Merged
+|11 |image:pieces/japan/jorogumo.png[Jorogumo,96] |*Jorogumo* +
+_絡新婦 (じょろうぐも)_ +
+Jorogumo is a spider yokai often linked with stories of seduction and disguise. |66 |Merged
+|12 |image:pieces/japan/yuki_onna.png[Yuki-onna,96] |*Yuki-onna* +
+_雪女 (ゆきおんな)_ +
+Yuki-onna is the snow woman, a spirit associated with winter storms and icy beauty. |78 |Merged
+|13 |image:pieces/japan/orochi.png[Orochi,96] |*Orochi* +
+_八岐大蛇 (やまたのおろち)_ +
+Yamata no Orochi is a giant serpent with eight heads and eight tails. |91 |Merged
+|14 |image:pieces/japan/raijin.png[Raijin,96] |*Raijin* +
+_雷神 (らいじん)_ +
+Raijin is a thunder deity often shown with drums that create thunderclaps. |105 |Merged
+|15 |image:pieces/japan/amaterasu_avatar.png[Amaterasu Avatar,96] |*Amaterasu Avatar* +
+_天照大神 (あまてらすおおみかみ)_ +
+Amaterasu is the Shinto sun goddess and one of Japan’s central deities. |120 |Merged
+|16 |image:pieces/japan/yokai_emperor.png[Yokai Emperor,96] |*Yokai Emperor* +
+_妖怪皇帝 (ようかいこうてい)_ +
+The ruler of the yokai, in imperial dress, commanding every spirit merged below it. |136 |Merged — top tier
 |===
 
 Clearing the two Yokai Emperor pieces awards a 700-point bonus.

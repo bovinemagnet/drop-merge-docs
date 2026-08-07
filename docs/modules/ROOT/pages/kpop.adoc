@@ -8,26 +8,58 @@ This is one edition of *Drop & Merge*. Its pieces are themed to the world of K-p
 
 You merge your way up 16 performers. You can drop only the five smallest; every larger piece is made by merging two of the kind below it.
 
-[cols="1,3,1,2",options="header"]
+[cols="1,2,6,1,2",options="header"]
 |===
-|Tier |Piece |Points |How you get it
+|Tier |Piece |Description |Points |How you get it
 
-|1 |Karaoke Bean |1 |Dropped
-|2 |Dance Trainee |3 |Dropped
-|3 |Street Performer |6 |Dropped
-|4 |Idol Rookie |10 |Dropped
-|5 |Neon Vocalist |15 |Dropped
-|6 |Fashion Rapper |21 |Merged
-|7 |Viral Dancer |28 |Merged
-|8 |Variety Star |36 |Merged
-|9 |Main Vocalist |45 |Merged
-|10 |Arena Idol |55 |Merged
-|11 |World Tour Leader |66 |Merged
-|12 |Moonlight Diva |78 |Merged
-|13 |Galaxy Performer |91 |Merged
-|14 |Neon Emperor |105 |Merged
-|15 |Celestial Superstar |120 |Merged
-|16 |Cosmic Idol God |136 |Merged — top tier
+|1 |image:pieces/kpop/karaoke_bean.png[Karaoke Bean,96] |*Karaoke Bean* +
+_노래방 콩_ +
+A tiny mascot in a headset, singing in a noraebang — the private karaoke rooms hired for a night out. |1 |Dropped
+|2 |image:pieces/kpop/dance_trainee.png[Dance Trainee,96] |*Dance Trainee* +
+_댄스 연습생_ +
+A trainee drilling choreography for hours in the practice room. |3 |Dropped
+|3 |image:pieces/kpop/street_performer.png[Street Performer,96] |*Street Performer* +
+_거리 공연자_ +
+A busker taking the act outdoors, the first public step on the road to stardom. |6 |Dropped
+|4 |image:pieces/kpop/idol_rookie.png[Idol Rookie,96] |*Idol Rookie* +
+_신인 아이돌_ +
+A newly debuted idol in a star badge and blue outfit — the first polished stage persona. |10 |Dropped
+|5 |image:pieces/kpop/neon_vocalist.png[Neon Vocalist,96] |*Neon Vocalist* +
+_네온 보컬_ +
+A singer under cyan lights, bright and full of energy. |15 |Dropped
+|6 |image:pieces/kpop/fashion_rapper.png[Fashion Rapper,96] |*Fashion Rapper* +
+_패션 래퍼_ +
+A rapper in a cap and purple styling, all attitude and rhythm. |21 |Merged
+|7 |image:pieces/kpop/viral_dancer.png[Viral Dancer,96] |*Viral Dancer* +
+_바이럴 댄서_ +
+Baireol daenseo is a Korean-style rendering of viral dancer. |28 |Merged
+|8 |image:pieces/kpop/variety_star.png[Variety Star,96] |*Variety Star* +
+_예능 스타_ +
+Yeneung seuta means variety star and points to comedy, games, and talk-show appearances. |36 |Merged
+|9 |image:pieces/kpop/main_vocalist.png[Main Vocalist,96] |*Main Vocalist* +
+_메인 보컬_ +
+The centre-stage singer a group is built around, lit by a spotlight. |45 |Merged
+|10 |image:pieces/kpop/arena_idol.png[Arena Idol,96] |*Arena Idol* +
+_아레나 아이돌_ +
+An idol who has outgrown small venues and now plays arenas under sweeping beams of light. |55 |Merged
+|11 |image:pieces/kpop/world_tour_leader.png[World Tour Leader,96] |*World Tour Leader* +
+_월드투어 리더_ +
+Woldeutueo rideo is a Korean-style rendering of world tour leader. |66 |Merged
+|12 |image:pieces/kpop/moonlight_diva.png[Moonlight Diva,96] |*Moonlight Diva* +
+_달빛 디바_ +
+A ballad singer in crescent-moon styling and pale colours, a calm turn before the cosmic tiers. |78 |Merged
+|13 |image:pieces/kpop/galaxy_performer.png[Galaxy Performer,96] |*Galaxy Performer* +
+_은하 퍼포머_ +
+A performer ringed by orbiting cyan light, where the idol career tips into cosmic spectacle. |91 |Merged
+|14 |image:pieces/kpop/neon_emperor.png[Neon Emperor,96] |*Neon Emperor* +
+_네온 황제_ +
+The crown is a fantasy rank symbol and is not connected to any real artist nickname. |105 |Merged
+|15 |image:pieces/kpop/celestial_superstar.png[Celestial Superstar,96] |*Celestial Superstar* +
+_천상 슈퍼스타_ +
+A star risen so high as to be almost mythic, crowned with a halo of stars. |120 |Merged
+|16 |image:pieces/kpop/cosmic_idol_god.png[Cosmic Idol God,96] |*Cosmic Idol God* +
+_우주 아이돌 신_ +
+The final tier: an idol raised to a deity, framed by a giant star and a double aura. |136 |Merged — top tier
 |===
 
 Clearing the two Cosmic Idol God pieces awards a 700-point bonus.
